@@ -109,7 +109,7 @@ https://rdn.essastream.com:3400/live/canal18hdlive.m3u8
 https://streaming.telecablecentral.com.do/live/MicroHD/playlist.m3u8
 #EXTINF:-1 tvg-chno="59" tvg-logo="https://satelcanal4.com/wp-content/uploads/2023/08/SATEL-LOGO-1-1024x652.png" group-title="Spanish-Colombia",Satel Canal 4 ¹ 🇨🇴
 https://server.asilivehd.com:3802/live/canal4live.m3u8
-#EXTINF:-1 tvg-chno="60" tvg-logo="https://cineramatv.com/wp-content/uploads/2024/10/sin-fondo.png" group-title="Spanish-Movies",Cinerama TV ¹ 🇧🇴
+#EXTINF:-1 tvg-chno="60" tvg-logo="https://cineramatv.com/wp-content/uploads/2024/10/sin-fondo.png" group-title="Spanish-Bolivia",Cinerama TV ¹ 🇧🇴
 https://owncloud1692001.fasthostunlimited.com/hls/stream.m3u8?cachebust=7e749c
 #EXTINF:-1 tvg-chno="60" tvg-logo="https://megatvcr.net/images/logo-mega.png" group-title="Spanish-Costa Rica",Mega Tv CR 🇨🇷
 https://k20.usastreams.com:8081/tvtico/video.m3u8
@@ -129,7 +129,7 @@ https://rtv.fullhd-streaming.com:19360/dreikotv/dreikotv.m3u8
 https://live20.bozztv.com/akamaissh101/ssh101/retromagicochnl/chunks.m3u8
 #EXTINF:-1 tvg-chno="69" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC43000013T_20230915T042726SQUARE.png_20230915042727.png" group-title="Spanish-Mexico",Todo Novelas ¹ 🇲🇽
 https://d2t7ujjc7lurgd.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-q0go87ctcenys-ssai-prd/index.m3u8
-#EXTINF:-1 tvg-chno="69" tvg-logo="https://sonyone.com.mx/sites/g/files/objgke226/files/styles/discover_menu_icon/public/2022-11/menu_icon_13219.png" group-title="Spanish-Movies",Sony Novelas ¹ 🇲🇽
+#EXTINF:-1 tvg-chno="69" tvg-logo="https://sonyone.com.mx/sites/g/files/objgke226/files/styles/discover_menu_icon/public/2022-11/menu_icon_13219.png" group-title="Spanish-Mexico",Sony Novelas ¹ 🇲🇽
 https://a89829b8dca2471ab52ea9a57bc28a35.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/CanelaTV_SonyCanalNovelas/playlist.m3u8
 #EXTINF:-1 tvg-chno="69" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/Logo_TNT_Novelas.png" group-title="Spanish-Movies",TNT Novelas ² 🇲🇽
 http://177.93.46.163:8000/play/a01g
@@ -155,109 +155,109 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=2380&avod=1&coppa=0&is_lat
 https://daiconnect.com/live/hls/tvup/tvfy-mundoseries/.m3u8
 #EXTINF:-1 tvg-chno="69" tvg-logo="https://imageshttps://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/400caa96-4298-41ae-92a4-8a2406fc81c8.jpeg" group-title="Spanish-Japan",Rakuten Viki ¹
 https://c2332ac2eff14da0934ccff4817df4a8.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/RakutenTV-es_RakutenViki/playlist.m3u8
-#EXTINF:-1 tvg-chno="70" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqG-JsGb4M000SIMZ5NjD3IVSSi0GK4QNqW4hwO3_WdM2TTBD9e-iYsDfz0sN1sH17d0MNtcN3rkH3vVLrLOQRJuKYk19BTM5nrIHVmvukg0vfDE2cZSRcqICN3wx_puDSlaYe4VkMMMY/s200/Screenshot_20190527-144354.png" group-title="24/7",24/7 Chavo del 8 (1)
+#EXTINF:-1 tvg-chno="70" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqG-JsGb4M000SIMZ5NjD3IVSSi0GK4QNqW4hwO3_WdM2TTBD9e-iYsDfz0sN1sH17d0MNtcN3rkH3vVLrLOQRJuKYk19BTM5nrIHVmvukg0vfDE2cZSRcqICN3wx_puDSlaYe4VkMMMY/s200/Screenshot_20190527-144354.png" group-title="Spanish-24/7",24/7 Chavo del 8 (1)
 http://tvpremium.pro:80/live/Erick12345/Erick12345/361281.m3u8
-#EXTINF:-1 tvg-chno="70" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqG-JsGb4M000SIMZ5NjD3IVSSi0GK4QNqW4hwO3_WdM2TTBD9e-iYsDfz0sN1sH17d0MNtcN3rkH3vVLrLOQRJuKYk19BTM5nrIHVmvukg0vfDE2cZSRcqICN3wx_puDSlaYe4VkMMMY/s200/Screenshot_20190527-144354.png" group-title="24/7",24/7 Chavo del 8 (2)
+#EXTINF:-1 tvg-chno="70" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqG-JsGb4M000SIMZ5NjD3IVSSi0GK4QNqW4hwO3_WdM2TTBD9e-iYsDfz0sN1sH17d0MNtcN3rkH3vVLrLOQRJuKYk19BTM5nrIHVmvukg0vfDE2cZSRcqICN3wx_puDSlaYe4VkMMMY/s200/Screenshot_20190527-144354.png" group-title="Spanish-24/7",24/7 Chavo del 8 (2)
 http://2.magmas5.com:8000/streaming/clients_live.php?username=PSG@273Res&password=0OPSGMessi24&stream=129315&extension=ts
-#EXTINF:-1 tvg-chno="70" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqG-JsGb4M000SIMZ5NjD3IVSSi0GK4QNqW4hwO3_WdM2TTBD9e-iYsDfz0sN1sH17d0MNtcN3rkH3vVLrLOQRJuKYk19BTM5nrIHVmvukg0vfDE2cZSRcqICN3wx_puDSlaYe4VkMMMY/s200/Screenshot_20190527-144354.png" group-title="24/7",24/7 Chavo del 8 (3)
+#EXTINF:-1 tvg-chno="70" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqG-JsGb4M000SIMZ5NjD3IVSSi0GK4QNqW4hwO3_WdM2TTBD9e-iYsDfz0sN1sH17d0MNtcN3rkH3vVLrLOQRJuKYk19BTM5nrIHVmvukg0vfDE2cZSRcqICN3wx_puDSlaYe4VkMMMY/s200/Screenshot_20190527-144354.png" group-title="Spanish-24/7",24/7 Chavo del 8 (3)
 http://1play.cool:25461/streaming/clients_live.php?username=2132580232&password=27be478b47&stream=266558&extension=ts
-#EXTINF:-1 tvg-chno="70" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqG-JsGb4M000SIMZ5NjD3IVSSi0GK4QNqW4hwO3_WdM2TTBD9e-iYsDfz0sN1sH17d0MNtcN3rkH3vVLrLOQRJuKYk19BTM5nrIHVmvukg0vfDE2cZSRcqICN3wx_puDSlaYe4VkMMMY/s200/Screenshot_20190527-144354.png" group-title="24/7",24/7 Chavo del 8 (4)
+#EXTINF:-1 tvg-chno="70" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqG-JsGb4M000SIMZ5NjD3IVSSi0GK4QNqW4hwO3_WdM2TTBD9e-iYsDfz0sN1sH17d0MNtcN3rkH3vVLrLOQRJuKYk19BTM5nrIHVmvukg0vfDE2cZSRcqICN3wx_puDSlaYe4VkMMMY/s200/Screenshot_20190527-144354.png" group-title="Spanish-24/7",24/7 Chavo del 8 (4)
 http://1play.cool:25461/streaming/clients_live.php?username=2132580232&password=27be478b47&stream=30500&extension=ts
-#EXTINF:-1 tvg-chno="70" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqG-JsGb4M000SIMZ5NjD3IVSSi0GK4QNqW4hwO3_WdM2TTBD9e-iYsDfz0sN1sH17d0MNtcN3rkH3vVLrLOQRJuKYk19BTM5nrIHVmvukg0vfDE2cZSRcqICN3wx_puDSlaYe4VkMMMY/s200/Screenshot_20190527-144354.png" group-title="24/7",24/7 Chapulín Colorado (1)
+#EXTINF:-1 tvg-chno="70" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqG-JsGb4M000SIMZ5NjD3IVSSi0GK4QNqW4hwO3_WdM2TTBD9e-iYsDfz0sN1sH17d0MNtcN3rkH3vVLrLOQRJuKYk19BTM5nrIHVmvukg0vfDE2cZSRcqICN3wx_puDSlaYe4VkMMMY/s200/Screenshot_20190527-144354.png" group-title="Spanish-24/7",24/7 Chapulín Colorado (1)
 http://2.magmas5.com:8000/streaming/clients_live.php?username=PSG@273Res&password=0OPSGMessi24&stream=129323&extension=ts
-#EXTINF:-1 tvg-chno="70" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqG-JsGb4M000SIMZ5NjD3IVSSi0GK4QNqW4hwO3_WdM2TTBD9e-iYsDfz0sN1sH17d0MNtcN3rkH3vVLrLOQRJuKYk19BTM5nrIHVmvukg0vfDE2cZSRcqICN3wx_puDSlaYe4VkMMMY/s200/Screenshot_20190527-144354.png" group-title="24/7",24/7 Chapulín Colorado (2)
+#EXTINF:-1 tvg-chno="70" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqG-JsGb4M000SIMZ5NjD3IVSSi0GK4QNqW4hwO3_WdM2TTBD9e-iYsDfz0sN1sH17d0MNtcN3rkH3vVLrLOQRJuKYk19BTM5nrIHVmvukg0vfDE2cZSRcqICN3wx_puDSlaYe4VkMMMY/s200/Screenshot_20190527-144354.png" group-title="Spanish-24/7",24/7 Chapulín Colorado (2)
 http://1play.cool:25461/streaming/clients_live.php?username=2132580232&password=27be478b47&stream=30641&extension=ts
-#EXTINF:-1 tvg-chno="70" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqG-JsGb4M000SIMZ5NjD3IVSSi0GK4QNqW4hwO3_WdM2TTBD9e-iYsDfz0sN1sH17d0MNtcN3rkH3vVLrLOQRJuKYk19BTM5nrIHVmvukg0vfDE2cZSRcqICN3wx_puDSlaYe4VkMMMY/s200/Screenshot_20190527-144354.png" group-title="24/7",24/7 Chespirito
+#EXTINF:-1 tvg-chno="70" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqG-JsGb4M000SIMZ5NjD3IVSSi0GK4QNqW4hwO3_WdM2TTBD9e-iYsDfz0sN1sH17d0MNtcN3rkH3vVLrLOQRJuKYk19BTM5nrIHVmvukg0vfDE2cZSRcqICN3wx_puDSlaYe4VkMMMY/s200/Screenshot_20190527-144354.png" group-title="Spanish-24/7",24/7 Chespirito
 http://sdmx.vip:80/live/yestv/eVW6aPPbUCD8/2385286.m3u8
-#EXTINF:-1 tvg-chno="71" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqG-JsGb4M000SIMZ5NjD3IVSSi0GK4QNqW4hwO3_WdM2TTBD9e-iYsDfz0sN1sH17d0MNtcN3rkH3vVLrLOQRJuKYk19BTM5nrIHVmvukg0vfDE2cZSRcqICN3wx_puDSlaYe4VkMMMY/s200/Screenshot_20190527-144354.png" group-title="24/7",24/7 Los Simpson (1)
+#EXTINF:-1 tvg-chno="71" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqG-JsGb4M000SIMZ5NjD3IVSSi0GK4QNqW4hwO3_WdM2TTBD9e-iYsDfz0sN1sH17d0MNtcN3rkH3vVLrLOQRJuKYk19BTM5nrIHVmvukg0vfDE2cZSRcqICN3wx_puDSlaYe4VkMMMY/s200/Screenshot_20190527-144354.png" group-title="Spanish-24/7",24/7 Los Simpson (1)
 http://2.magmas5.com:8000/streaming/clients_live.php?username=PSG@273Res&password=0OPSGMessi24&stream=129313&extension=ts
-#EXTINF:-1 tvg-chno="71" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqG-JsGb4M000SIMZ5NjD3IVSSi0GK4QNqW4hwO3_WdM2TTBD9e-iYsDfz0sN1sH17d0MNtcN3rkH3vVLrLOQRJuKYk19BTM5nrIHVmvukg0vfDE2cZSRcqICN3wx_puDSlaYe4VkMMMY/s200/Screenshot_20190527-144354.png" group-title="24/7",24/7 Los Simpson (2)
+#EXTINF:-1 tvg-chno="71" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqG-JsGb4M000SIMZ5NjD3IVSSi0GK4QNqW4hwO3_WdM2TTBD9e-iYsDfz0sN1sH17d0MNtcN3rkH3vVLrLOQRJuKYk19BTM5nrIHVmvukg0vfDE2cZSRcqICN3wx_puDSlaYe4VkMMMY/s200/Screenshot_20190527-144354.png" group-title="Spanish-24/7",24/7 Los Simpson (2)
 http://sdmx.vip:80/live/yestv/eVW6aPPbUCD8/2387517.m3u8
-#EXTINF:-1 tvg-chno="71" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqG-JsGb4M000SIMZ5NjD3IVSSi0GK4QNqW4hwO3_WdM2TTBD9e-iYsDfz0sN1sH17d0MNtcN3rkH3vVLrLOQRJuKYk19BTM5nrIHVmvukg0vfDE2cZSRcqICN3wx_puDSlaYe4VkMMMY/s200/Screenshot_20190527-144354.png" group-title="24/7",24/7 Los Simpson (3)
+#EXTINF:-1 tvg-chno="71" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqG-JsGb4M000SIMZ5NjD3IVSSi0GK4QNqW4hwO3_WdM2TTBD9e-iYsDfz0sN1sH17d0MNtcN3rkH3vVLrLOQRJuKYk19BTM5nrIHVmvukg0vfDE2cZSRcqICN3wx_puDSlaYe4VkMMMY/s200/Screenshot_20190527-144354.png" group-title="Spanish-24/7",24/7 Los Simpson (3)
 http://sdmx.vip:80/live/yestv/eVW6aPPbUCD8/2387518.m3u8
-#EXTINF:-1 tvg-chno="71" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqG-JsGb4M000SIMZ5NjD3IVSSi0GK4QNqW4hwO3_WdM2TTBD9e-iYsDfz0sN1sH17d0MNtcN3rkH3vVLrLOQRJuKYk19BTM5nrIHVmvukg0vfDE2cZSRcqICN3wx_puDSlaYe4VkMMMY/s200/Screenshot_20190527-144354.png" group-title="24/7",24/7 Los Simpson (4)
+#EXTINF:-1 tvg-chno="71" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqG-JsGb4M000SIMZ5NjD3IVSSi0GK4QNqW4hwO3_WdM2TTBD9e-iYsDfz0sN1sH17d0MNtcN3rkH3vVLrLOQRJuKYk19BTM5nrIHVmvukg0vfDE2cZSRcqICN3wx_puDSlaYe4VkMMMY/s200/Screenshot_20190527-144354.png" group-title="Spanish-24/7",24/7 Los Simpson (4)
 http://sdmx.vip:80/live/yestv/eVW6aPPbUCD8/2091016.m3u8
-#EXTINF:-1 tvg-chno="72" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqG-JsGb4M000SIMZ5NjD3IVSSi0GK4QNqW4hwO3_WdM2TTBD9e-iYsDfz0sN1sH17d0MNtcN3rkH3vVLrLOQRJuKYk19BTM5nrIHVmvukg0vfDE2cZSRcqICN3wx_puDSlaYe4VkMMMY/s200/Screenshot_20190527-144354.png" group-title="24/7",24/7 Futurama (1)
+#EXTINF:-1 tvg-chno="72" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqG-JsGb4M000SIMZ5NjD3IVSSi0GK4QNqW4hwO3_WdM2TTBD9e-iYsDfz0sN1sH17d0MNtcN3rkH3vVLrLOQRJuKYk19BTM5nrIHVmvukg0vfDE2cZSRcqICN3wx_puDSlaYe4VkMMMY/s200/Screenshot_20190527-144354.png" group-title="Spanish-24/7",24/7 Futurama (1)
 http://2.magmas5.com:8000/streaming/clients_live.php?username=PSG@273Res&password=0OPSGMessi24&stream=162187&extension=ts
-#EXTINF:-1 tvg-chno="72" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqG-JsGb4M000SIMZ5NjD3IVSSi0GK4QNqW4hwO3_WdM2TTBD9e-iYsDfz0sN1sH17d0MNtcN3rkH3vVLrLOQRJuKYk19BTM5nrIHVmvukg0vfDE2cZSRcqICN3wx_puDSlaYe4VkMMMY/s200/Screenshot_20190527-144354.png" group-title="24/7",24/7 Futurama (2)
+#EXTINF:-1 tvg-chno="72" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqG-JsGb4M000SIMZ5NjD3IVSSi0GK4QNqW4hwO3_WdM2TTBD9e-iYsDfz0sN1sH17d0MNtcN3rkH3vVLrLOQRJuKYk19BTM5nrIHVmvukg0vfDE2cZSRcqICN3wx_puDSlaYe4VkMMMY/s200/Screenshot_20190527-144354.png" group-title="Spanish-24/7",24/7 Futurama (2)
 http://sdmx.vip:80/live/yestv/eVW6aPPbUCD8/2394840.m3u8
-#EXTINF:-1 tvg-chno="72" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqG-JsGb4M000SIMZ5NjD3IVSSi0GK4QNqW4hwO3_WdM2TTBD9e-iYsDfz0sN1sH17d0MNtcN3rkH3vVLrLOQRJuKYk19BTM5nrIHVmvukg0vfDE2cZSRcqICN3wx_puDSlaYe4VkMMMY/s200/Screenshot_20190527-144354.png" group-title="24/7",24/7 Futurama (3)
+#EXTINF:-1 tvg-chno="72" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqG-JsGb4M000SIMZ5NjD3IVSSi0GK4QNqW4hwO3_WdM2TTBD9e-iYsDfz0sN1sH17d0MNtcN3rkH3vVLrLOQRJuKYk19BTM5nrIHVmvukg0vfDE2cZSRcqICN3wx_puDSlaYe4VkMMMY/s200/Screenshot_20190527-144354.png" group-title="Spanish-24/7",24/7 Futurama (3)
 http://sdmx.vip:80/live/yestv/eVW6aPPbUCD8/2394842.m3u8
-#EXTINF:-1 tvg-chno="73" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqG-JsGb4M000SIMZ5NjD3IVSSi0GK4QNqW4hwO3_WdM2TTBD9e-iYsDfz0sN1sH17d0MNtcN3rkH3vVLrLOQRJuKYk19BTM5nrIHVmvukg0vfDE2cZSRcqICN3wx_puDSlaYe4VkMMMY/s200/Screenshot_20190527-144354.png" group-title="24/7",24/7 Padre de Familia
+#EXTINF:-1 tvg-chno="73" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqG-JsGb4M000SIMZ5NjD3IVSSi0GK4QNqW4hwO3_WdM2TTBD9e-iYsDfz0sN1sH17d0MNtcN3rkH3vVLrLOQRJuKYk19BTM5nrIHVmvukg0vfDE2cZSRcqICN3wx_puDSlaYe4VkMMMY/s200/Screenshot_20190527-144354.png" group-title="Spanish-24/7",24/7 Padre de Familia
 http://sdmx.vip:80/live/yestv/eVW6aPPbUCD8/2387527.m3u8
-#EXTINF:-1 tvg-chno="74" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqG-JsGb4M000SIMZ5NjD3IVSSi0GK4QNqW4hwO3_WdM2TTBD9e-iYsDfz0sN1sH17d0MNtcN3rkH3vVLrLOQRJuKYk19BTM5nrIHVmvukg0vfDE2cZSRcqICN3wx_puDSlaYe4VkMMMY/s200/Screenshot_20190527-144354.png" group-title="24/7",24/7 South Park
+#EXTINF:-1 tvg-chno="74" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqG-JsGb4M000SIMZ5NjD3IVSSi0GK4QNqW4hwO3_WdM2TTBD9e-iYsDfz0sN1sH17d0MNtcN3rkH3vVLrLOQRJuKYk19BTM5nrIHVmvukg0vfDE2cZSRcqICN3wx_puDSlaYe4VkMMMY/s200/Screenshot_20190527-144354.png" group-title="Spanish-24/7",24/7 South Park
 http://latino777.xyz:8080/streaming/clients_live.php?username=Alex1592&password=Alex882d1&stream=536181&extension=ts
-#EXTINF:-1 tvg-chno="75" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqG-JsGb4M000SIMZ5NjD3IVSSi0GK4QNqW4hwO3_WdM2TTBD9e-iYsDfz0sN1sH17d0MNtcN3rkH3vVLrLOQRJuKYk19BTM5nrIHVmvukg0vfDE2cZSRcqICN3wx_puDSlaYe4VkMMMY/s200/Screenshot_20190527-144354.png" group-title="24/7",24/7 La Casa de los Dibujos
+#EXTINF:-1 tvg-chno="75" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqG-JsGb4M000SIMZ5NjD3IVSSi0GK4QNqW4hwO3_WdM2TTBD9e-iYsDfz0sN1sH17d0MNtcN3rkH3vVLrLOQRJuKYk19BTM5nrIHVmvukg0vfDE2cZSRcqICN3wx_puDSlaYe4VkMMMY/s200/Screenshot_20190527-144354.png" group-title="Spanish-24/7",24/7 La Casa de los Dibujos
 http://sdmx.vip:80/live/yestv/eVW6aPPbUCD8/2387504.m3u8
-#EXTINF:-1 tvg-chno="76" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqG-JsGb4M000SIMZ5NjD3IVSSi0GK4QNqW4hwO3_WdM2TTBD9e-iYsDfz0sN1sH17d0MNtcN3rkH3vVLrLOQRJuKYk19BTM5nrIHVmvukg0vfDE2cZSRcqICN3wx_puDSlaYe4VkMMMY/s200/Screenshot_20190527-144354.png" group-title="24/7",24/7 Bob Esponja
+#EXTINF:-1 tvg-chno="76" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqG-JsGb4M000SIMZ5NjD3IVSSi0GK4QNqW4hwO3_WdM2TTBD9e-iYsDfz0sN1sH17d0MNtcN3rkH3vVLrLOQRJuKYk19BTM5nrIHVmvukg0vfDE2cZSRcqICN3wx_puDSlaYe4VkMMMY/s200/Screenshot_20190527-144354.png" group-title="Spanish-24/7",24/7 Bob Esponja
 http://2.magmas5.com:8000/streaming/clients_live.php?username=PSG@273Res&password=0OPSGMessi24&stream=129332&extension=ts
-#EXTINF:-1 tvg-chno="77" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqG-JsGb4M000SIMZ5NjD3IVSSi0GK4QNqW4hwO3_WdM2TTBD9e-iYsDfz0sN1sH17d0MNtcN3rkH3vVLrLOQRJuKYk19BTM5nrIHVmvukg0vfDE2cZSRcqICN3wx_puDSlaYe4VkMMMY/s200/Screenshot_20190527-144354.png" group-title="24/7",24/7 Los Pitufos
+#EXTINF:-1 tvg-chno="77" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqG-JsGb4M000SIMZ5NjD3IVSSi0GK4QNqW4hwO3_WdM2TTBD9e-iYsDfz0sN1sH17d0MNtcN3rkH3vVLrLOQRJuKYk19BTM5nrIHVmvukg0vfDE2cZSRcqICN3wx_puDSlaYe4VkMMMY/s200/Screenshot_20190527-144354.png" group-title="Spanish-24/7",24/7 Los Pitufos
 http://sdmx.vip:80/live/yestv/eVW6aPPbUCD8/2387516.m3u8
-#EXTINF:-1 tvg-chno="78" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqG-JsGb4M000SIMZ5NjD3IVSSi0GK4QNqW4hwO3_WdM2TTBD9e-iYsDfz0sN1sH17d0MNtcN3rkH3vVLrLOQRJuKYk19BTM5nrIHVmvukg0vfDE2cZSRcqICN3wx_puDSlaYe4VkMMMY/s200/Screenshot_20190527-144354.png" group-title="24/7",24/7 Mazinger Z
+#EXTINF:-1 tvg-chno="78" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqG-JsGb4M000SIMZ5NjD3IVSSi0GK4QNqW4hwO3_WdM2TTBD9e-iYsDfz0sN1sH17d0MNtcN3rkH3vVLrLOQRJuKYk19BTM5nrIHVmvukg0vfDE2cZSRcqICN3wx_puDSlaYe4VkMMMY/s200/Screenshot_20190527-144354.png" group-title="Spanish-24/7",24/7 Mazinger Z
 http://sdmx.vip:80/live/yestv/eVW6aPPbUCD8/2387520.m3u8
-#EXTINF:-1 tvg-chno="79" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqG-JsGb4M000SIMZ5NjD3IVSSi0GK4QNqW4hwO3_WdM2TTBD9e-iYsDfz0sN1sH17d0MNtcN3rkH3vVLrLOQRJuKYk19BTM5nrIHVmvukg0vfDE2cZSRcqICN3wx_puDSlaYe4VkMMMY/s200/Screenshot_20190527-144354.png" group-title="24/7",24/7 Scooby Doo
+#EXTINF:-1 tvg-chno="79" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqG-JsGb4M000SIMZ5NjD3IVSSi0GK4QNqW4hwO3_WdM2TTBD9e-iYsDfz0sN1sH17d0MNtcN3rkH3vVLrLOQRJuKYk19BTM5nrIHVmvukg0vfDE2cZSRcqICN3wx_puDSlaYe4VkMMMY/s200/Screenshot_20190527-144354.png" group-title="Spanish-24/7",24/7 Scooby Doo
 http://sdmx.vip:80/live/yestv/eVW6aPPbUCD8/2387542.m3u8
-#EXTINF:-1 tvg-chno="80" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqG-JsGb4M000SIMZ5NjD3IVSSi0GK4QNqW4hwO3_WdM2TTBD9e-iYsDfz0sN1sH17d0MNtcN3rkH3vVLrLOQRJuKYk19BTM5nrIHVmvukg0vfDE2cZSRcqICN3wx_puDSlaYe4VkMMMY/s200/Screenshot_20190527-144354.png" group-title="24/7",24/7 Tom & Jerry
+#EXTINF:-1 tvg-chno="80" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqG-JsGb4M000SIMZ5NjD3IVSSi0GK4QNqW4hwO3_WdM2TTBD9e-iYsDfz0sN1sH17d0MNtcN3rkH3vVLrLOQRJuKYk19BTM5nrIHVmvukg0vfDE2cZSRcqICN3wx_puDSlaYe4VkMMMY/s200/Screenshot_20190527-144354.png" group-title="Spanish-24/7",24/7 Tom & Jerry
 http://sdmx.vip:80/live/yestv/eVW6aPPbUCD8/2387552.m3u8
-#EXTINF:-1 tvg-chno="81" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqG-JsGb4M000SIMZ5NjD3IVSSi0GK4QNqW4hwO3_WdM2TTBD9e-iYsDfz0sN1sH17d0MNtcN3rkH3vVLrLOQRJuKYk19BTM5nrIHVmvukg0vfDE2cZSRcqICN3wx_puDSlaYe4VkMMMY/s200/Screenshot_20190527-144354.png" group-title="24/7",24/7 Vecinos (1)
+#EXTINF:-1 tvg-chno="81" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqG-JsGb4M000SIMZ5NjD3IVSSi0GK4QNqW4hwO3_WdM2TTBD9e-iYsDfz0sN1sH17d0MNtcN3rkH3vVLrLOQRJuKYk19BTM5nrIHVmvukg0vfDE2cZSRcqICN3wx_puDSlaYe4VkMMMY/s200/Screenshot_20190527-144354.png" group-title="Spanish-24/7",24/7 Vecinos (1)
 http://1play.cool:25461/streaming/clients_live.php?username=2132580232&password=27be478b47&stream=165433&extension=ts
-#EXTINF:-1 tvg-chno="81" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqG-JsGb4M000SIMZ5NjD3IVSSi0GK4QNqW4hwO3_WdM2TTBD9e-iYsDfz0sN1sH17d0MNtcN3rkH3vVLrLOQRJuKYk19BTM5nrIHVmvukg0vfDE2cZSRcqICN3wx_puDSlaYe4VkMMMY/s200/Screenshot_20190527-144354.png" group-title="24/7",24/7 Vecinos (2)
+#EXTINF:-1 tvg-chno="81" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqG-JsGb4M000SIMZ5NjD3IVSSi0GK4QNqW4hwO3_WdM2TTBD9e-iYsDfz0sN1sH17d0MNtcN3rkH3vVLrLOQRJuKYk19BTM5nrIHVmvukg0vfDE2cZSRcqICN3wx_puDSlaYe4VkMMMY/s200/Screenshot_20190527-144354.png" group-title="Spanish-24/7",24/7 Vecinos (2)
 http://sdmx.vip:80/live/yestv/eVW6aPPbUCD8/2384966.m3u8
-#EXTINF:-1 tvg-chno="82" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqG-JsGb4M000SIMZ5NjD3IVSSi0GK4QNqW4hwO3_WdM2TTBD9e-iYsDfz0sN1sH17d0MNtcN3rkH3vVLrLOQRJuKYk19BTM5nrIHVmvukg0vfDE2cZSRcqICN3wx_puDSlaYe4VkMMMY/s200/Screenshot_20190527-144354.png" group-title="24/7",24/7 Nosotros Los Guapos (1)
+#EXTINF:-1 tvg-chno="82" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqG-JsGb4M000SIMZ5NjD3IVSSi0GK4QNqW4hwO3_WdM2TTBD9e-iYsDfz0sN1sH17d0MNtcN3rkH3vVLrLOQRJuKYk19BTM5nrIHVmvukg0vfDE2cZSRcqICN3wx_puDSlaYe4VkMMMY/s200/Screenshot_20190527-144354.png" group-title="Spanish-24/7",24/7 Nosotros Los Guapos (1)
 http://1play.cool:25461/streaming/clients_live.php?username=2132580232&password=27be478b47&stream=165386&extension=ts
-#EXTINF:-1 tvg-chno="82" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqG-JsGb4M000SIMZ5NjD3IVSSi0GK4QNqW4hwO3_WdM2TTBD9e-iYsDfz0sN1sH17d0MNtcN3rkH3vVLrLOQRJuKYk19BTM5nrIHVmvukg0vfDE2cZSRcqICN3wx_puDSlaYe4VkMMMY/s200/Screenshot_20190527-144354.png" group-title="24/7",24/7 Nosotros Los Guapos (2)
+#EXTINF:-1 tvg-chno="82" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqG-JsGb4M000SIMZ5NjD3IVSSi0GK4QNqW4hwO3_WdM2TTBD9e-iYsDfz0sN1sH17d0MNtcN3rkH3vVLrLOQRJuKYk19BTM5nrIHVmvukg0vfDE2cZSRcqICN3wx_puDSlaYe4VkMMMY/s200/Screenshot_20190527-144354.png" group-title="Spanish-24/7",24/7 Nosotros Los Guapos (2)
 http://sdmx.vip:80/live/yestv/eVW6aPPbUCD8/2384946.m3u8
-#EXTINF:-1 tvg-chno="83" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqG-JsGb4M000SIMZ5NjD3IVSSi0GK4QNqW4hwO3_WdM2TTBD9e-iYsDfz0sN1sH17d0MNtcN3rkH3vVLrLOQRJuKYk19BTM5nrIHVmvukg0vfDE2cZSRcqICN3wx_puDSlaYe4VkMMMY/s200/Screenshot_20190527-144354.png" group-title="24/7",24/7 Una Familia de Diez
+#EXTINF:-1 tvg-chno="83" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqG-JsGb4M000SIMZ5NjD3IVSSi0GK4QNqW4hwO3_WdM2TTBD9e-iYsDfz0sN1sH17d0MNtcN3rkH3vVLrLOQRJuKYk19BTM5nrIHVmvukg0vfDE2cZSRcqICN3wx_puDSlaYe4VkMMMY/s200/Screenshot_20190527-144354.png" group-title="Spanish-24/7",24/7 Una Familia de Diez
 http://sdmx.vip:80/live/yestv/eVW6aPPbUCD8/2384965.m3u8
-#EXTINF:-1 tvg-chno="84" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqG-JsGb4M000SIMZ5NjD3IVSSi0GK4QNqW4hwO3_WdM2TTBD9e-iYsDfz0sN1sH17d0MNtcN3rkH3vVLrLOQRJuKYk19BTM5nrIHVmvukg0vfDE2cZSRcqICN3wx_puDSlaYe4VkMMMY/s200/Screenshot_20190527-144354.png" group-title="24/7",24/7 La Familia Peluche (1)
+#EXTINF:-1 tvg-chno="84" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqG-JsGb4M000SIMZ5NjD3IVSSi0GK4QNqW4hwO3_WdM2TTBD9e-iYsDfz0sN1sH17d0MNtcN3rkH3vVLrLOQRJuKYk19BTM5nrIHVmvukg0vfDE2cZSRcqICN3wx_puDSlaYe4VkMMMY/s200/Screenshot_20190527-144354.png" group-title="Spanish-24/7",24/7 La Familia Peluche (1)
 http://sdmx.vip:80/live/yestv/eVW6aPPbUCD8/2384930.m3u8
-#EXTINF:-1 tvg-chno="85" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqG-JsGb4M000SIMZ5NjD3IVSSi0GK4QNqW4hwO3_WdM2TTBD9e-iYsDfz0sN1sH17d0MNtcN3rkH3vVLrLOQRJuKYk19BTM5nrIHVmvukg0vfDE2cZSRcqICN3wx_puDSlaYe4VkMMMY/s200/Screenshot_20190527-144354.png" group-title="24/7",24/7 La Familia Peluche (2)
+#EXTINF:-1 tvg-chno="85" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqG-JsGb4M000SIMZ5NjD3IVSSi0GK4QNqW4hwO3_WdM2TTBD9e-iYsDfz0sN1sH17d0MNtcN3rkH3vVLrLOQRJuKYk19BTM5nrIHVmvukg0vfDE2cZSRcqICN3wx_puDSlaYe4VkMMMY/s200/Screenshot_20190527-144354.png" group-title="Spanish-24/7",24/7 La Familia Peluche (2)
 http://tvpremium.pro:80/live/Erick12345/Erick12345/766994.m3u8
-#EXTINF:-1 tvg-chno="86" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqG-JsGb4M000SIMZ5NjD3IVSSi0GK4QNqW4hwO3_WdM2TTBD9e-iYsDfz0sN1sH17d0MNtcN3rkH3vVLrLOQRJuKYk19BTM5nrIHVmvukg0vfDE2cZSRcqICN3wx_puDSlaYe4VkMMMY/s200/Screenshot_20190527-144354.png" group-title="24/7",24/7 Cantinflas (1)
+#EXTINF:-1 tvg-chno="86" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqG-JsGb4M000SIMZ5NjD3IVSSi0GK4QNqW4hwO3_WdM2TTBD9e-iYsDfz0sN1sH17d0MNtcN3rkH3vVLrLOQRJuKYk19BTM5nrIHVmvukg0vfDE2cZSRcqICN3wx_puDSlaYe4VkMMMY/s200/Screenshot_20190527-144354.png" group-title="Spanish-24/7",24/7 Cantinflas (1)
 http://1play.cool:25461/streaming/clients_live.php?username=2132580232&password=27be478b47&stream=63155&extension=ts
-#EXTINF:-1 tvg-chno="86" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqG-JsGb4M000SIMZ5NjD3IVSSi0GK4QNqW4hwO3_WdM2TTBD9e-iYsDfz0sN1sH17d0MNtcN3rkH3vVLrLOQRJuKYk19BTM5nrIHVmvukg0vfDE2cZSRcqICN3wx_puDSlaYe4VkMMMY/s200/Screenshot_20190527-144354.png" group-title="24/7",24/7 Cantinflas (2)
+#EXTINF:-1 tvg-chno="86" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqG-JsGb4M000SIMZ5NjD3IVSSi0GK4QNqW4hwO3_WdM2TTBD9e-iYsDfz0sN1sH17d0MNtcN3rkH3vVLrLOQRJuKYk19BTM5nrIHVmvukg0vfDE2cZSRcqICN3wx_puDSlaYe4VkMMMY/s200/Screenshot_20190527-144354.png" group-title="Spanish-24/7",24/7 Cantinflas (2)
 http://1play.cool:25461/streaming/clients_live.php?username=2132580232&password=27be478b47&stream=117814&extension=ts
-#EXTINF:-1 tvg-chno="86" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqG-JsGb4M000SIMZ5NjD3IVSSi0GK4QNqW4hwO3_WdM2TTBD9e-iYsDfz0sN1sH17d0MNtcN3rkH3vVLrLOQRJuKYk19BTM5nrIHVmvukg0vfDE2cZSRcqICN3wx_puDSlaYe4VkMMMY/s200/Screenshot_20190527-144354.png" group-title="24/7",24/7 Cantinflas (3)
+#EXTINF:-1 tvg-chno="86" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqG-JsGb4M000SIMZ5NjD3IVSSi0GK4QNqW4hwO3_WdM2TTBD9e-iYsDfz0sN1sH17d0MNtcN3rkH3vVLrLOQRJuKYk19BTM5nrIHVmvukg0vfDE2cZSRcqICN3wx_puDSlaYe4VkMMMY/s200/Screenshot_20190527-144354.png" group-title="Spanish-24/7",24/7 Cantinflas (3)
 http://sdmx.vip:80/live/yestv/eVW6aPPbUCD8/2385231.m3u8
-#EXTINF:-1 tvg-chno="87" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqG-JsGb4M000SIMZ5NjD3IVSSi0GK4QNqW4hwO3_WdM2TTBD9e-iYsDfz0sN1sH17d0MNtcN3rkH3vVLrLOQRJuKYk19BTM5nrIHVmvukg0vfDE2cZSRcqICN3wx_puDSlaYe4VkMMMY/s200/Screenshot_20190527-144354.png" group-title="24/7",24/7 Pedro Infante
+#EXTINF:-1 tvg-chno="87" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqG-JsGb4M000SIMZ5NjD3IVSSi0GK4QNqW4hwO3_WdM2TTBD9e-iYsDfz0sN1sH17d0MNtcN3rkH3vVLrLOQRJuKYk19BTM5nrIHVmvukg0vfDE2cZSRcqICN3wx_puDSlaYe4VkMMMY/s200/Screenshot_20190527-144354.png" group-title="Spanish-24/7",24/7 Pedro Infante
 http://sdmx.vip:80/live/yestv/eVW6aPPbUCD8/2385262.m3u8
-#EXTINF:-1 tvg-chno="88" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqG-JsGb4M000SIMZ5NjD3IVSSi0GK4QNqW4hwO3_WdM2TTBD9e-iYsDfz0sN1sH17d0MNtcN3rkH3vVLrLOQRJuKYk19BTM5nrIHVmvukg0vfDE2cZSRcqICN3wx_puDSlaYe4VkMMMY/s200/Screenshot_20190527-144354.png" group-title="24/7",24/7 Betty La Fea
+#EXTINF:-1 tvg-chno="88" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqG-JsGb4M000SIMZ5NjD3IVSSi0GK4QNqW4hwO3_WdM2TTBD9e-iYsDfz0sN1sH17d0MNtcN3rkH3vVLrLOQRJuKYk19BTM5nrIHVmvukg0vfDE2cZSRcqICN3wx_puDSlaYe4VkMMMY/s200/Screenshot_20190527-144354.png" group-title="Spanish-24/7",24/7 Betty La Fea
 http://sdmx.vip:80/live/yestv/eVW6aPPbUCD8/2384901.m3u8
-#EXTINF:-1 tvg-chno="89" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqG-JsGb4M000SIMZ5NjD3IVSSi0GK4QNqW4hwO3_WdM2TTBD9e-iYsDfz0sN1sH17d0MNtcN3rkH3vVLrLOQRJuKYk19BTM5nrIHVmvukg0vfDE2cZSRcqICN3wx_puDSlaYe4VkMMMY/s200/Screenshot_20190527-144354.png" group-title="24/7",24/7 El Príncipe del Rap (1)
+#EXTINF:-1 tvg-chno="89" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqG-JsGb4M000SIMZ5NjD3IVSSi0GK4QNqW4hwO3_WdM2TTBD9e-iYsDfz0sN1sH17d0MNtcN3rkH3vVLrLOQRJuKYk19BTM5nrIHVmvukg0vfDE2cZSRcqICN3wx_puDSlaYe4VkMMMY/s200/Screenshot_20190527-144354.png" group-title="Spanish-24/7",24/7 El Príncipe del Rap (1)
 http://sdmx.vip:80/live/yestv/eVW6aPPbUCD8/2384916.m3u8
-#EXTINF:-1 tvg-chno="89" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqG-JsGb4M000SIMZ5NjD3IVSSi0GK4QNqW4hwO3_WdM2TTBD9e-iYsDfz0sN1sH17d0MNtcN3rkH3vVLrLOQRJuKYk19BTM5nrIHVmvukg0vfDE2cZSRcqICN3wx_puDSlaYe4VkMMMY/s200/Screenshot_20190527-144354.png" group-title="24/7",24/7 El Príncipe del Rap (2)
+#EXTINF:-1 tvg-chno="89" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqG-JsGb4M000SIMZ5NjD3IVSSi0GK4QNqW4hwO3_WdM2TTBD9e-iYsDfz0sN1sH17d0MNtcN3rkH3vVLrLOQRJuKYk19BTM5nrIHVmvukg0vfDE2cZSRcqICN3wx_puDSlaYe4VkMMMY/s200/Screenshot_20190527-144354.png" group-title="Spanish-24/7",24/7 El Príncipe del Rap (2)
 http://sdmx.vip:80/live/yestv/eVW6aPPbUCD8/2385289.m3u8
-#EXTINF:-1 tvg-chno="90" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqG-JsGb4M000SIMZ5NjD3IVSSi0GK4QNqW4hwO3_WdM2TTBD9e-iYsDfz0sN1sH17d0MNtcN3rkH3vVLrLOQRJuKYk19BTM5nrIHVmvukg0vfDE2cZSRcqICN3wx_puDSlaYe4VkMMMY/s200/Screenshot_20190527-144354.png" group-title="24/7",24/7 Walker Texas Ranger
+#EXTINF:-1 tvg-chno="90" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqG-JsGb4M000SIMZ5NjD3IVSSi0GK4QNqW4hwO3_WdM2TTBD9e-iYsDfz0sN1sH17d0MNtcN3rkH3vVLrLOQRJuKYk19BTM5nrIHVmvukg0vfDE2cZSRcqICN3wx_puDSlaYe4VkMMMY/s200/Screenshot_20190527-144354.png" group-title="Spanish-24/7",24/7 Walker Texas Ranger
 http://sdmx.vip:80/live/yestv/eVW6aPPbUCD8/2385310.m3u8
-#EXTINF:-1 tvg-chno="91" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqG-JsGb4M000SIMZ5NjD3IVSSi0GK4QNqW4hwO3_WdM2TTBD9e-iYsDfz0sN1sH17d0MNtcN3rkH3vVLrLOQRJuKYk19BTM5nrIHVmvukg0vfDE2cZSRcqICN3wx_puDSlaYe4VkMMMY/s200/Screenshot_20190527-144354.png" group-title="24/7",24/7 Alf (1)
+#EXTINF:-1 tvg-chno="91" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqG-JsGb4M000SIMZ5NjD3IVSSi0GK4QNqW4hwO3_WdM2TTBD9e-iYsDfz0sN1sH17d0MNtcN3rkH3vVLrLOQRJuKYk19BTM5nrIHVmvukg0vfDE2cZSRcqICN3wx_puDSlaYe4VkMMMY/s200/Screenshot_20190527-144354.png" group-title="Spanish-24/7",24/7 Alf (1)
 http://sdmx.vip:80/live/yestv/eVW6aPPbUCD8/2385281.m3u8
-#EXTINF:-1 tvg-chno="91" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqG-JsGb4M000SIMZ5NjD3IVSSi0GK4QNqW4hwO3_WdM2TTBD9e-iYsDfz0sN1sH17d0MNtcN3rkH3vVLrLOQRJuKYk19BTM5nrIHVmvukg0vfDE2cZSRcqICN3wx_puDSlaYe4VkMMMY/s200/Screenshot_20190527-144354.png" group-title="24/7",24/7 Alf (2)
+#EXTINF:-1 tvg-chno="91" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqG-JsGb4M000SIMZ5NjD3IVSSi0GK4QNqW4hwO3_WdM2TTBD9e-iYsDfz0sN1sH17d0MNtcN3rkH3vVLrLOQRJuKYk19BTM5nrIHVmvukg0vfDE2cZSRcqICN3wx_puDSlaYe4VkMMMY/s200/Screenshot_20190527-144354.png" group-title="Spanish-24/7",24/7 Alf (2)
 http://1play.cool:25461/streaming/clients_live.php?username=2132580232&password=27be478b47&stream=30507&extension=ts
-#EXTINF:-1 tvg-chno="92" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqG-JsGb4M000SIMZ5NjD3IVSSi0GK4QNqW4hwO3_WdM2TTBD9e-iYsDfz0sN1sH17d0MNtcN3rkH3vVLrLOQRJuKYk19BTM5nrIHVmvukg0vfDE2cZSRcqICN3wx_puDSlaYe4VkMMMY/s200/Screenshot_20190527-144354.png" group-title="24/7",24/7 Los Años Maravillosos
+#EXTINF:-1 tvg-chno="92" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqG-JsGb4M000SIMZ5NjD3IVSSi0GK4QNqW4hwO3_WdM2TTBD9e-iYsDfz0sN1sH17d0MNtcN3rkH3vVLrLOQRJuKYk19BTM5nrIHVmvukg0vfDE2cZSRcqICN3wx_puDSlaYe4VkMMMY/s200/Screenshot_20190527-144354.png" group-title="Spanish-24/7",24/7 Los Años Maravillosos
 http://sdmx.vip:80/live/yestv/eVW6aPPbUCD8/2385298.m3u8
-#EXTINF:-1 tvg-chno="93" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqG-JsGb4M000SIMZ5NjD3IVSSi0GK4QNqW4hwO3_WdM2TTBD9e-iYsDfz0sN1sH17d0MNtcN3rkH3vVLrLOQRJuKYk19BTM5nrIHVmvukg0vfDE2cZSRcqICN3wx_puDSlaYe4VkMMMY/s200/Screenshot_20190527-144354.png" group-title="24/7",24/7 Mejorando La Casa
+#EXTINF:-1 tvg-chno="93" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqG-JsGb4M000SIMZ5NjD3IVSSi0GK4QNqW4hwO3_WdM2TTBD9e-iYsDfz0sN1sH17d0MNtcN3rkH3vVLrLOQRJuKYk19BTM5nrIHVmvukg0vfDE2cZSRcqICN3wx_puDSlaYe4VkMMMY/s200/Screenshot_20190527-144354.png" group-title="Spanish-24/7",24/7 Mejorando La Casa
 http://sdmx.vip:80/live/yestv/eVW6aPPbUCD8/2385304.m3u8
-#EXTINF:-1 tvg-chno="94" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqG-JsGb4M000SIMZ5NjD3IVSSi0GK4QNqW4hwO3_WdM2TTBD9e-iYsDfz0sN1sH17d0MNtcN3rkH3vVLrLOQRJuKYk19BTM5nrIHVmvukg0vfDE2cZSRcqICN3wx_puDSlaYe4VkMMMY/s200/Screenshot_20190527-144354.png" group-title="24/7",24/7 Los Expedientes Secretos X
+#EXTINF:-1 tvg-chno="94" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqG-JsGb4M000SIMZ5NjD3IVSSi0GK4QNqW4hwO3_WdM2TTBD9e-iYsDfz0sN1sH17d0MNtcN3rkH3vVLrLOQRJuKYk19BTM5nrIHVmvukg0vfDE2cZSRcqICN3wx_puDSlaYe4VkMMMY/s200/Screenshot_20190527-144354.png" group-title="Spanish-24/7",24/7 Los Expedientes Secretos X
 http://sdmx.vip:80/live/yestv/eVW6aPPbUCD8/2385300.m3u8
-#EXTINF:-1 tvg-chno="95" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqG-JsGb4M000SIMZ5NjD3IVSSi0GK4QNqW4hwO3_WdM2TTBD9e-iYsDfz0sN1sH17d0MNtcN3rkH3vVLrLOQRJuKYk19BTM5nrIHVmvukg0vfDE2cZSRcqICN3wx_puDSlaYe4VkMMMY/s200/Screenshot_20190527-144354.png" group-title="24/7",24/7 Dos Hombres y Medio
+#EXTINF:-1 tvg-chno="95" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqG-JsGb4M000SIMZ5NjD3IVSSi0GK4QNqW4hwO3_WdM2TTBD9e-iYsDfz0sN1sH17d0MNtcN3rkH3vVLrLOQRJuKYk19BTM5nrIHVmvukg0vfDE2cZSRcqICN3wx_puDSlaYe4VkMMMY/s200/Screenshot_20190527-144354.png" group-title="Spanish-24/7",24/7 Dos Hombres y Medio
 http://sdmx.vip:80/live/yestv/eVW6aPPbUCD8/2384964.m3u8
-#EXTINF:-1 tvg-chno="96" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqG-JsGb4M000SIMZ5NjD3IVSSi0GK4QNqW4hwO3_WdM2TTBD9e-iYsDfz0sN1sH17d0MNtcN3rkH3vVLrLOQRJuKYk19BTM5nrIHVmvukg0vfDE2cZSRcqICN3wx_puDSlaYe4VkMMMY/s200/Screenshot_20190527-144354.png" group-title="24/7",24/7 Dr. House
+#EXTINF:-1 tvg-chno="96" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqG-JsGb4M000SIMZ5NjD3IVSSi0GK4QNqW4hwO3_WdM2TTBD9e-iYsDfz0sN1sH17d0MNtcN3rkH3vVLrLOQRJuKYk19BTM5nrIHVmvukg0vfDE2cZSRcqICN3wx_puDSlaYe4VkMMMY/s200/Screenshot_20190527-144354.png" group-title="Spanish-24/7",24/7 Dr. House
 http://sdmx.vip:80/live/yestv/eVW6aPPbUCD8/2384911.m3u8
-#EXTINF:-1 tvg-chno="97" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqG-JsGb4M000SIMZ5NjD3IVSSi0GK4QNqW4hwO3_WdM2TTBD9e-iYsDfz0sN1sH17d0MNtcN3rkH3vVLrLOQRJuKYk19BTM5nrIHVmvukg0vfDE2cZSRcqICN3wx_puDSlaYe4VkMMMY/s200/Screenshot_20190527-144354.png" group-title="24/7",24/7 Luisito Comunica
+#EXTINF:-1 tvg-chno="97" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqG-JsGb4M000SIMZ5NjD3IVSSi0GK4QNqW4hwO3_WdM2TTBD9e-iYsDfz0sN1sH17d0MNtcN3rkH3vVLrLOQRJuKYk19BTM5nrIHVmvukg0vfDE2cZSRcqICN3wx_puDSlaYe4VkMMMY/s200/Screenshot_20190527-144354.png" group-title="Spanish-24/7",24/7 Luisito Comunica
 http://1play.cool:25461/streaming/clients_live.php?username=2132580232&password=27be478b47&stream=176971&extension=ts
-#EXTINF:-1 tvg-chno="97" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqG-JsGb4M000SIMZ5NjD3IVSSi0GK4QNqW4hwO3_WdM2TTBD9e-iYsDfz0sN1sH17d0MNtcN3rkH3vVLrLOQRJuKYk19BTM5nrIHVmvukg0vfDE2cZSRcqICN3wx_puDSlaYe4VkMMMY/s200/Screenshot_20190527-144354.png" group-title="24/7",24/7 Shark Thank México
+#EXTINF:-1 tvg-chno="97" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqG-JsGb4M000SIMZ5NjD3IVSSi0GK4QNqW4hwO3_WdM2TTBD9e-iYsDfz0sN1sH17d0MNtcN3rkH3vVLrLOQRJuKYk19BTM5nrIHVmvukg0vfDE2cZSRcqICN3wx_puDSlaYe4VkMMMY/s200/Screenshot_20190527-144354.png" group-title="Spanish-24/7",24/7 Shark Thank México
 http://sdmx.vip:80/live/yestv/eVW6aPPbUCD8/2384951.m3u8
-#EXTINF:-1 tvg-chno="98" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqG-JsGb4M000SIMZ5NjD3IVSSi0GK4QNqW4hwO3_WdM2TTBD9e-iYsDfz0sN1sH17d0MNtcN3rkH3vVLrLOQRJuKYk19BTM5nrIHVmvukg0vfDE2cZSRcqICN3wx_puDSlaYe4VkMMMY/s200/Screenshot_20190527-144354.png" group-title="24/7",24/7 Caso Cerrado
+#EXTINF:-1 tvg-chno="98" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqG-JsGb4M000SIMZ5NjD3IVSSi0GK4QNqW4hwO3_WdM2TTBD9e-iYsDfz0sN1sH17d0MNtcN3rkH3vVLrLOQRJuKYk19BTM5nrIHVmvukg0vfDE2cZSRcqICN3wx_puDSlaYe4VkMMMY/s200/Screenshot_20190527-144354.png" group-title="Spanish-24/7",24/7 Caso Cerrado
 http://sdmx.vip:80/live/yestv/eVW6aPPbUCD8/2384905.m3u8
-#EXTINF:-1 tvg-chno="99" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqG-JsGb4M000SIMZ5NjD3IVSSi0GK4QNqW4hwO3_WdM2TTBD9e-iYsDfz0sN1sH17d0MNtcN3rkH3vVLrLOQRJuKYk19BTM5nrIHVmvukg0vfDE2cZSRcqICN3wx_puDSlaYe4VkMMMY/s200/Screenshot_20190527-144354.png" group-title="24/7",24/7 Alerta Aeropuerto (1)
+#EXTINF:-1 tvg-chno="99" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqG-JsGb4M000SIMZ5NjD3IVSSi0GK4QNqW4hwO3_WdM2TTBD9e-iYsDfz0sN1sH17d0MNtcN3rkH3vVLrLOQRJuKYk19BTM5nrIHVmvukg0vfDE2cZSRcqICN3wx_puDSlaYe4VkMMMY/s200/Screenshot_20190527-144354.png" group-title="Spanish-24/7",24/7 Alerta Aeropuerto (1)
 http://2.magmas5.com:8000/streaming/clients_live.php?username=PSG@273Res&password=0OPSGMessi24&stream=228655&extension=ts
-#EXTINF:-1 tvg-chno="99" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqG-JsGb4M000SIMZ5NjD3IVSSi0GK4QNqW4hwO3_WdM2TTBD9e-iYsDfz0sN1sH17d0MNtcN3rkH3vVLrLOQRJuKYk19BTM5nrIHVmvukg0vfDE2cZSRcqICN3wx_puDSlaYe4VkMMMY/s200/Screenshot_20190527-144354.png" group-title="24/7",24/7 Alerta Aeropuerto (2)
+#EXTINF:-1 tvg-chno="99" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqG-JsGb4M000SIMZ5NjD3IVSSi0GK4QNqW4hwO3_WdM2TTBD9e-iYsDfz0sN1sH17d0MNtcN3rkH3vVLrLOQRJuKYk19BTM5nrIHVmvukg0vfDE2cZSRcqICN3wx_puDSlaYe4VkMMMY/s200/Screenshot_20190527-144354.png" group-title="Spanish-24/7",24/7 Alerta Aeropuerto (2)
 http://sdmx.vip:80/live/yestv/eVW6aPPbUCD8/2384897.m3u8
 #EXTINF:-1 tvg-chno="130" tvg-logo="https://cdn.mitvstatic.com/channels/ar_cnn-en-espanol_m.png" group-title="Spanish-USA",CNN Español ¹ 🇺🇸
 https://amg00803-amg00803c3-rakuten-us-5347.playouts.now.amagi.tv/playlist/amg00803-cnnfastinternational-cnnesponal-rakutenus/playlist.m3u8?ads_amagi_channel=948&ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_bundle=com.rakuten.tv&ads_app_store_url=rakuten.tv&ads_app_version=&ads_brand_name=&ads_content_classification=0&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_env=prod&ads_gam_correlator=&ads_gdpr_consent=&ads_market=es&ads_os_language=&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_ppid=&ads_rtv_content_id=6425&ads_rtv_content_language=spa&ads_rtvid=271859&ads_streaming_id=1886cc8a-1918-4702-8b48-cd6e823acf3d&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor
 #EXTINF:-1 tvg-chno="131" tvg-logo="https://cdn-profiles.tunein.com/s320627/images/logoq.png" group-title="Spanish-USA",Estrella News ¹ 🇺🇸
 https://estrella-news-oando.amagi.tv:443/playlistR1080p.m3u8
-#EXTINF:-1 tvg-chno="132" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1b/NoticiasUnivision247.png/revision/latest?cb=20211012054124" group-title="24/7",24/7 Noticias Univisión ¹ 🇺🇸
+#EXTINF:-1 tvg-chno="132" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1b/NoticiasUnivision247.png/revision/latest?cb=20211012054124" group-title="Spanish-24/7",24/7 Noticias Univisión ¹ 🇺🇸
 https://linear-254.frequency.stream:443/mt/studio/254/hls/master/playlist_1280x720.m3u8
 #EXTINF:-1 tvg-chno="133" tvg-logo="https://i.postimg.cc/T1qXxt1F/noticiast.jpg" group-title="Spanish-USA",Telemumdo Noticias Ahora ¹ 🇺🇸
 https://d3fs8vk5kl4cwc.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-qeuu0ja680vad/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=US3000005RS
@@ -589,7 +589,7 @@ http://2.magmas5.com:8000/streaming/clients_live.php?username=PSG@273Res&passwor
 https://vivo.canaloncelive.tv/alivepkgr3/ngrp:cepro_all/playlist.m3u8
 #EXTINF:-1 tvg-chno="325" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Logo-Imagen-TV-MX.png/800px-Logo -Imagen-TV-MX.png" group-title="Spanish-Mexico",Imagen TV ² 🇲🇽
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=6149
-#EXTINF:-1 tvg-chno="326" tvg-logo="https://www.tumundo.cl/wp-content/uploads/2022/11/Cinema_Logo_Black.png" group-title="Spanish-Movies",Cinema 🇲🇽
+#EXTINF:-1 tvg-chno="326" tvg-logo="https://www.tumundo.cl/wp-content/uploads/2022/11/Cinema_Logo_Black.png" group-title="Spanish-Mexico",Cinema 🇲🇽
 http://2.magmas5.com:8000/streaming/clients_live.php?username=PSG@273Res&password=0OPSGMessi24&stream=129028&extension=ts
 #EXTINF:-1 tvg-chno="327" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Unicable_logo.svg/400px-Unicable_logo.svg.png" group-title="Spanish-Mexico",Unicable ² 🇲🇽
 http://45.228.234.173:9999/play/a059
@@ -759,7 +759,7 @@ http://2.magmas5.com:8000/streaming/clients_live.php?username=PSG@273Res&passwor
 http://2.magmas5.com:8000/streaming/clients_live.php?username=PSG@273Res&password=0OPSGMessi24&stream=37&extension=ts
 #EXTINF:-1 tvg-chno="501" tvg-logo="https://i.postimg.cc/ncsmtW5L/amce.jpg" group-title="Spanish-Movies",AMC (USA) ¹
 https://amc-amcespanol-1-us.vizio.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-chno="502" tvg-logo="https://cdn.mitvstatic.com/channels/cl_axn_m.png" group-title="Spanish-Movies",AXN
+#EXTINF:-1 tvg-chno="502" tvg-logo="https://cdn.mitvstatic.com/channels/cl_axn_m.png" group-title="Latin America",AXN
 http://sdmx.vip:80/live/yestv/eVW6aPPbUCD8/10549.m3u8
 #EXTINF:-1 tvg-chno="503" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/cinecanal-mediano.png" group-title="Spanish-Movies",Cinecanal ²
 http://38.159.227.124:8000/play/a05x
@@ -785,9 +785,9 @@ http://sdmx.vip:80/live/yestv/eVW6aPPbUCD8/155172.m3u8
 http://38.159.227.124:8000/play/a05u
 #EXTINF:-1 tvg-chno="519" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/SonyMovies.png" group-title="Spanish-Movies",Cine Sony ²
 http://38.159.227.124:8000/play/a04w
-#EXTINF:-1 tvg-chno="520" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/sony_channel-mediano.png" group-title="Spanish-Movies",Sony ²
+#EXTINF:-1 tvg-chno="520" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/sony_channel-mediano.png" group-title="Spanish-USA",Sony ²
 http://38.159.227.124:8000/play/a05w
-#EXTINF:-1 tvg-chno="520" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/sony_channel-mediano.png" group-title="Spanish-Movies",Sony Diferido
+#EXTINF:-1 tvg-chno="520" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/sony_channel-mediano.png" group-title="Spanish-USA",Sony Diferido
 http://kstv.us:8080/streaming/clients_live.php?username=uAf2e8KWbg&password=8722455439&stream=46660&extension=ts
 #EXTINF:-1 tvg-chno="521" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/usa_network_latinoamerica-mediano.png" group-title="Spanish-USA",USA Network ²
 http://181.78.4.186:8000/play/a0e4
@@ -838,11 +838,11 @@ http://190.102.246.93:9005/play/a035
 http://190.102.246.93:9005/play/a036
 #EXTINF:-1 tvg-chno="556" tvg-logo="https://contenidostv.b-cdn.net/images/clover512.jpg" group-title="Latin America",Clover Channel ²
 http://160.20.165.246:8000/play/a006
-#EXTINF:-1 tvg-chno="568" tvg-logo="https://sitelco.tv/wp-content/uploads/2023/08/mxfamily.png" group-title="Spanish-Movies",MX Family ²
+#EXTINF:-1 tvg-chno="568" tvg-logo="https://sitelco.tv/wp-content/uploads/2023/08/mxfamily.png" group-title="Latin America",MX Family ²
 http://190.102.246.93:9005/play/a03i
-#EXTINF:-1 tvg-chno="569" tvg-logo="https://sitelco.tv/wp-content/uploads/2023/08/mxprime.png" group-title="Spanish-Movies",MX Prime ²
+#EXTINF:-1 tvg-chno="569" tvg-logo="https://sitelco.tv/wp-content/uploads/2023/08/mxprime.png" group-title="Latin America",MX Prime ²
 http://190.102.246.93:9005/play/a03t
-#EXTINF:-1 tvg-chno="570" tvg-logo="https://sitelco.tv/wp-content/uploads/2023/08/mxclassic.png" group-title="Spanish-Movies",MX Classic ²
+#EXTINF:-1 tvg-chno="570" tvg-logo="https://sitelco.tv/wp-content/uploads/2023/08/mxclassic.png" group-title="Latin America",MX Classic ²
 http://190.102.246.93:9005/play/a03h
 #EXTINF:-1 tvg-chno="572" tvg-logo="https://cdn.mitvstatic.com/channels/ar_hbo_m.png" group-title="Spanish-Movies",HBO Norte
 http://go.iptvhn.net:25461/streaming/clients_live.php?username=7785&password=7785&stream=13218&extension=ts
@@ -874,11 +874,11 @@ http://2.magmas5.com:8000/streaming/clients_live.php?username=PSG@273Res&passwor
 http://go.iptvhn.net:25461/streaming/clients_live.php?username=7785&password=7785&stream=13220&extension=ts
 #EXTINF:-1 tvg-chno="590" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_mundi-mediano.png" group-title="Spanish-Movies",HBO Mundi Sur
 http://2.magmas5.com:8000/streaming/clients_live.php?username=PSG@273Res&password=0OPSGMessi24&stream=7968&extension=ts
-#EXTINF:-1 tvg-chno="593" tvg-logo="https://cdn.mitvstatic.com/channels/mx_universal-channel_m.png" group-title="Spanish-Movies",Universal Channel ²
+#EXTINF:-1 tvg-chno="593" tvg-logo="https://cdn.mitvstatic.com/channels/mx_universal-channel_m.png" group-title="Spanish-USA",Universal Channel ²
 http://216.122.181.10:8081/play/a0h7
-#EXTINF:-1 tvg-chno="593" tvg-logo="https://cdn.mitvstatic.com/channels/mx_universal-channel_m.png" group-title="Spanish-Movies",Universal Channel Diferido ²
+#EXTINF:-1 tvg-chno="593" tvg-logo="https://cdn.mitvstatic.com/channels/mx_universal-channel_m.png" group-title="Spanish-USA",Universal Channel Diferido ²
 http://181.78.23.26:45000/play/a007
-#EXTINF:-1 tvg-chno="594" tvg-logo="https://www2.claro.cr/portal/cr/gc/canales/1644505043521-Imagen.jpg" group-title="Spanish-Movies",Universal Cinema ²
+#EXTINF:-1 tvg-chno="594" tvg-logo="https://www2.claro.cr/portal/cr/gc/canales/1644505043521-Imagen.jpg" group-title="Latin America",Universal Cinema ²
 http://38.159.227.124:8000/play/a04e
 #EXTINF:-1 tvg-chno="595" tvg-logo="https://www2.claro.cr/portal/cr/gc/canales/1644504904675-Imagen.jpg" group-title="Latin America",Universal Comedy ²
 http://38.159.227.124:8000/play/a030
@@ -906,84 +906,84 @@ http://38.180.133.31:8000/play/a0kt/index.m3u8
 http://200.229.147.210:8000/play/a00h/index.m3u8
 #EXTINF:-1 tvg-chno="606" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/TD_M%C3%A1s_2_Logo.svg/1024px-TD_M%C3 %A1s_2_Logo.svg.png" group-title="Latin America",TD + 2 ²
 http://38.180.133.31:8000/play/a0ku/index.m3u8
-#EXTINF:-1 tvg-chno="607" tvg-logo="https://static.wixstatic.com/media/27d2df_a5d983e1932849e4af4b946f6289a003~mv2.png/v1/fill/w_180 group-title="Latin America",h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/ESPN.png",ESPN Centro América ¹
+#EXTINF:-1 tvg-chno="607" tvg-logo="https://static.wixstatic.com/media/27d2df_a5d983e1932849e4af4b946f6289a003~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/ESPN.png" group-title="Latin America",ESPN Centro América ¹
 http://crlivebpk.service.osllacdn.com/espnhdcr/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1 tvg-chno="608" tvg-logo="https://static.wixstatic.com/media/27d2df_3855b68f65c541f1a3e6b3c89e80a07b~mv2.png/v1/fill/w_180 group-title="Latin America",h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/ESPN-2.png",ESPN 2 Centro América ¹
+#EXTINF:-1 tvg-chno="608" tvg-logo="https://static.wixstatic.com/media/27d2df_3855b68f65c541f1a3e6b3c89e80a07b~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/ESPN-2.png" group-title="Latin America",ESPN 2 Centro América ¹
 http://crlive1.service.osllacdn.com/espn2hdcr/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1 tvg-chno="610" tvg-logo="https://static.wixstatic.com/media/27d2df_924eed614eed44d3a36344f60a9fcde1~mv2.png/v1/fill/w_180 group-title="Latin America",h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/ESPN-3.png",ESPN 3 Centro América ¹
+#EXTINF:-1 tvg-chno="610" tvg-logo="https://static.wixstatic.com/media/27d2df_924eed614eed44d3a36344f60a9fcde1~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/ESPN-3.png" group-title="Latin America",ESPN 3 Centro América ¹
 http://crlive1.service.osllacdn.com/espn3hdcr/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1 tvg-chno="611" tvg-logo="https://static.wixstatic.com/media/27d2df_995efad2b6c34c68a7f81275c00ad162~mv2.png/v1/fill/w_180 group-title="Latin America",h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/ESPN-4.png",ESPN 4 Centro América ¹
+#EXTINF:-1 tvg-chno="611" tvg-logo="https://static.wixstatic.com/media/27d2df_995efad2b6c34c68a7f81275c00ad162~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/ESPN-4.png" group-title="Latin America",ESPN 4 Centro América ¹
 http://crlive1.service.osllacdn.com/espn4hdcr/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1 tvg-chno="612" tvg-logo="https://static.wixstatic.com/media/27d2df_fdc7de25263246f09a2975eac638f0a8~mv2.png/v1/fill/w_180 group-title="Latin America",h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/ESPN-5.png",ESPN 5 Centro América ¹
+#EXTINF:-1 tvg-chno="612" tvg-logo="https://static.wixstatic.com/media/27d2df_fdc7de25263246f09a2975eac638f0a8~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/ESPN-5.png" group-title="Latin America",ESPN 5 Centro América ¹
 http://crlivebpk.service.osllacdn.com/espn5hdcr/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1 tvg-chno="613" tvg-logo="https://static.wixstatic.com/media/27d2df_7b0572454923490f87cd649cbb5a39ac~mv2.png/v1/fill/w_180 group-title="Latin America",h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/ESPN-6.png",ESPN 6 Centro América ¹
+#EXTINF:-1 tvg-chno="613" tvg-logo="https://static.wixstatic.com/media/27d2df_7b0572454923490f87cd649cbb5a39ac~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/ESPN-6.png" group-title="Latin America",ESPN 6 Centro América ¹
 http://crlivebpk.service.osllacdn.com/espn6hdcr/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1 tvg-chno="614" tvg-logo="https://static.wixstatic.com/media/27d2df_a5d983e1932849e4af4b946f6289a003~mv2.png/v1/fill/w_180 group-title="Spanish-Mexico",h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/ESPN.png",ESPN MX 🇲🇽
+#EXTINF:-1 tvg-chno="614" tvg-logo="https://static.wixstatic.com/media/27d2df_a5d983e1932849e4af4b946f6289a003~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/ESPN.png" group-title="Spanish-Mexico",ESPN MX 🇲🇽
 http://sdmx.vip:80/live/yestv/eVW6aPPbUCD8/2092626.m3u8
-#EXTINF:-1 tvg-chno="615" tvg-logo="https://static.wixstatic.com/media/27d2df_3855b68f65c541f1a3e6b3c89e80a07b~mv2.png/v1/fill/w_180 group-title="Spanish-Mexico",h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/ESPN-2.png",ESPN 2 MX 🇲🇽
+#EXTINF:-1 tvg-chno="615" tvg-logo="https://static.wixstatic.com/media/27d2df_3855b68f65c541f1a3e6b3c89e80a07b~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/ESPN-2.png" group-title="Spanish-Mexico",ESPN 2 MX 🇲🇽
 http://kstv.us:8080/streaming/clients_live.php?username=uAf2e8KWbg&password=8722455439&stream=47098&extension=ts
-#EXTINF:-1 tvg-chno="616" tvg-logo="tic.com/media/27d2df_924eed614eed44d3a36344f60a9fcde1~mv2.png/v1/fill/w_180 group-title="Spanish-Mexico",h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/ESPN-3.png",ESPN 3 MX 🇲🇽
+#EXTINF:-1 tvg-chno="616" tvg-logo="tic.com/media/27d2df_924eed614eed44d3a36344f60a9fcde1~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/ESPN-3.png" group-title="Spanish-Mexico",ESPN 3 MX 🇲🇽
 http://kstv.us:8080/streaming/clients_live.php?username=uAf2e8KWbg&password=8722455439&stream=47102&extension=ts
-#EXTINF:-1 tvg-chno="616" tvg-logo="tic.com/media/27d2df_924eed614eed44d3a36344f60a9fcde1~mv2.png/v1/fill/w_180 group-title="Spanish-Mexico",h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/ESPN-3.png",ESPN 4 MX 🇲🇽
+#EXTINF:-1 tvg-chno="616" tvg-logo="tic.com/media/27d2df_924eed614eed44d3a36344f60a9fcde1~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/ESPN-3.png" group-title="Spanish-Mexico",ESPN 4 MX 🇲🇽
 http://kstv.us:8080/streaming/clients_live.php?username=uAf2e8KWbg&password=8722455439&stream=47110&extension=ts
-#EXTINF:-1 tvg-chno="617" tvg-logo="https://static.wixstatic.com/media/27d2df_6f7903b0a78e45a2a6b0d18b03ac0fcc~mv2.png/v1/fill/w_180 group-title="Spanish-US Minor Outlying Islands",h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/ESPN-DEPORTES.png",ESPN Deportes 🇺🇲
+#EXTINF:-1 tvg-chno="617" tvg-logo="https://static.wixstatic.com/media/27d2df_6f7903b0a78e45a2a6b0d18b03ac0fcc~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/ESPN-DEPORTES.png" group-title="Spanish-US Minor Outlying Islands",ESPN Deportes 🇺🇲
 http://thevdm.xyz:25461/streaming/clients_live.php?username=Vargasfam99&password=fBTVegQTCz&stream=19938&extension=ts
 #EXTINF:-1 tvg-chno="617" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/fox-deportes.png" group-title="Spanish-US Minor Outlying Islands",Fox Deportes 🇺🇲
 http://sdmx.vip:80/live/yestv/eVW6aPPbUCD8/2216927.m3u8
-#EXTINF:-1 tvg-chno="618" tvg-logo="https://static.wixstatic.com/media/27d2df_524c1552967841858f7f7eaa72299e17~mv2.png/v1/fill/w_180 group-title="Spanish-Mexico",h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/FOX-SPORTS.png",Fox Sports MX 🇲🇽
+#EXTINF:-1 tvg-chno="618" tvg-logo="https://static.wixstatic.com/media/27d2df_524c1552967841858f7f7eaa72299e17~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/FOX-SPORTS.png" group-title="Spanish-Mexico",Fox Sports MX 🇲🇽
 http://kstv.us:8080/streaming/clients_live.php?username=uAf2e8KWbg&password=8722455439&stream=47128&extension=ts
-#EXTINF:-1 tvg-chno="619" tvg-logo="https://static.wixstatic.com/media/27d2df_246284b7cb4b4ed9ad586ef862c7cf32~mv2.png/v1/fill/w_180 group-title="Spanish-Mexico",h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/FOX-SPORTS-2.png",Fox Sports 2 MX 🇲🇽
+#EXTINF:-1 tvg-chno="619" tvg-logo="https://static.wixstatic.com/media/27d2df_246284b7cb4b4ed9ad586ef862c7cf32~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/FOX-SPORTS-2.png" group-title="Spanish-Mexico",Fox Sports 2 MX 🇲🇽
 http://kstv.us:8080/streaming/clients_live.php?username=uAf2e8KWbg&password=8722455439&stream=47119&extension=ts
-#EXTINF:-1 tvg-chno="620" tvg-logo="https://static.wixstatic.com/media/27d2df_ebcbd722879a447bbc7960e593f8551e~mv2.png/v1/fill/w_180 group-title="Spanish-Mexico",h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/FOX-SPORTS-3.png",Fox Sports 3 MX 🇲🇽
+#EXTINF:-1 tvg-chno="620" tvg-logo="https://static.wixstatic.com/media/27d2df_ebcbd722879a447bbc7960e593f8551e~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/FOX-SPORTS-3.png" group-title="Spanish-Mexico",Fox Sports 3 MX 🇲🇽
 http://kstv.us:8080/streaming/clients_live.php?username=uAf2e8KWbg&password=8722455439&stream=47123&extension=ts
-#EXTINF:-1 tvg-chno="621" tvg-logo="https://static.wixstatic.com/media/27d2df_e7ee5501d67c4839add6f4ffc72baa3e~mv2.png/v1/fill/w_180 group-title="Spanish-Mexico",h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/FOX-SPORTS-PREMIUM.png",Fox Sports Premium MX 🇲🇽
+#EXTINF:-1 tvg-chno="621" tvg-logo="https://static.wixstatic.com/media/27d2df_e7ee5501d67c4839add6f4ffc72baa3e~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/FOX-SPORTS-PREMIUM.png" group-title="Spanish-Mexico",Fox Sports Premium MX 🇲🇽
 http://2.magmas5.com:8000/streaming/clients_live.php?username=PSG@273Res&password=0OPSGMessi24&stream=2687&extension=ts
 #EXTINF:-1 tvg-chno="622" tvg-logo="https://www.westminsterkennelclub.org/wp-content/uploads/2024/02/Asset-1-1.png" group-title="Spanish-Mexico",Fox Deportes en Tubi (MX) 🇲🇽
 http://sdmx.vip:80/live/yestv/eVW6aPPbUCD8/2121734.m3u8
 #EXTINF:-1 tvg-chno="623" tvg-logo="https://www.westminsterkennelclub.org/wp-content/uploads/2024/02/Asset-1-1.png" group-title="Spanish-Mexico",Fox Deportes en Tubi (MX) 🇲🇽
-#EXTINF:-1 tvg-chno="625" tvg-logo="https://static.wixstatic.com/media/27d2df_ee7829cdf05b4202baabb7203c80ae4c~mv2.png/v1/fill/w_180 group-title="Spanish-US Minor Outlying Islands",h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/FOX-DEPORTES.png",Fox Deportes Tubi (Latino) ¹ 🇺🇲
+#EXTINF:-1 tvg-chno="625" tvg-logo="https://static.wixstatic.com/media/27d2df_ee7829cdf05b4202baabb7203c80ae4c~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/FOX-DEPORTES.png" group-title="Spanish-US Minor Outlying Islands",Fox Deportes Tubi (Latino) ¹ 🇺🇲
 https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Fox-Sports-Espanol2.m3u8
 #EXTINF:-1 tvg-chno="627" tvg-logo="https://image.roku.com/developer_channels/prod/f89955f4a64b7dc2fb4b3b0d9527aa659b28c8480b37802fed3c0ed58ae2e2cd.png" group-title="Spanish-Mexico",Caliente TV 🇲🇽
 http://sdmx.vip:80/live/yestv/eVW6aPPbUCD8/2227022.m3u8
-#EXTINF:-1 tvg-chno="630" tvg-logo="https://static.wixstatic.com/media/27d2df_a5d983e1932849e4af4b946f6289a003~mv2.png/v1/fill/w_180 group-title="Spanish-Argentina",h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/ESPN.png",ESPN 🇦🇷
+#EXTINF:-1 tvg-chno="630" tvg-logo="https://static.wixstatic.com/media/27d2df_a5d983e1932849e4af4b946f6289a003~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/ESPN.png" group-title="Spanish-Argentina",ESPN 🇦🇷
 http://tvpremium.pro:80/live/Erick12345/Erick12345/73.m3u8
-#EXTINF:-1 tvg-chno="631" tvg-logo="https://static.wixstatic.com/media/27d2df_a5d983e1932849e4af4b946f6289a003~mv2.png/v1/fill/w_180 group-title="Spanish-Chile",h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/ESPN.png",ESPN 🇨🇱
+#EXTINF:-1 tvg-chno="631" tvg-logo="https://static.wixstatic.com/media/27d2df_a5d983e1932849e4af4b946f6289a003~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/ESPN.png" group-title="Spanish-Chile",ESPN 🇨🇱
 http://tvpremium.pro:80/live/Erick12345/Erick12345/496558.m3u8
-#EXTINF:-1 tvg-chno="632" tvg-logo="https://static.wixstatic.com/media/27d2df_a5d983e1932849e4af4b946f6289a003~mv2.png/v1/fill/w_180 group-title="Spanish-Colombia",h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/ESPN.png",ESPN 🇨🇴
+#EXTINF:-1 tvg-chno="632" tvg-logo="https://static.wixstatic.com/media/27d2df_a5d983e1932849e4af4b946f6289a003~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/ESPN.png" group-title="Spanish-Colombia",ESPN 🇨🇴
 http://sdmx.vip:80/live/yestv/eVW6aPPbUCD8/202064.m3u8
-#EXTINF:-1 tvg-chno="633" tvg-logo="https://static.wixstatic.com/media/27d2df_3855b68f65c541f1a3e6b3c89e80a07b~mv2.png/v1/fill/w_180 group-title="Latin America",h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/ESPN-2.png",ESPN 2 Sur América
+#EXTINF:-1 tvg-chno="633" tvg-logo="https://static.wixstatic.com/media/27d2df_3855b68f65c541f1a3e6b3c89e80a07b~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/ESPN-2.png" group-title="Latin America",ESPN 2 Sur América
 http://sdmx.vip:80/live/yestv/eVW6aPPbUCD8/181346.m3u8
-#EXTINF:-1 tvg-chno="634" tvg-logo="https://static.wixstatic.com/media/27d2df_924eed614eed44d3a36344f60a9fcde1~mv2.png/v1/fill/w_180 group-title="Latin America",h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/ESPN-3.png",ESPN 3 Sur América
+#EXTINF:-1 tvg-chno="634" tvg-logo="https://static.wixstatic.com/media/27d2df_924eed614eed44d3a36344f60a9fcde1~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/ESPN-3.png" group-title="Latin America",ESPN 3 Sur América
 http://sdmx.vip:80/live/yestv/eVW6aPPbUCD8/181348.m3u8
-#EXTINF:-1 tvg-chno="635" tvg-logo="https://static.wixstatic.com/media/27d2df_995efad2b6c34c68a7f81275c00ad162~mv2.png/v1/fill/w_180 group-title="Latin America",h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/ESPN-4.png",ESPN 4 Sur América
+#EXTINF:-1 tvg-chno="635" tvg-logo="https://static.wixstatic.com/media/27d2df_995efad2b6c34c68a7f81275c00ad162~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/ESPN-4.png" group-title="Latin America",ESPN 4 Sur América
 http://sdmx.vip:80/live/yestv/eVW6aPPbUCD8/2121680.m3u8
-#EXTINF:-1 tvg-chno="636" tvg-logo="https://static.wixstatic.com/media/27d2df_fdc7de25263246f09a2975eac638f0a8~mv2.png/v1/fill/w_180 group-title="Latin America",h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/ESPN-5.png",ESPN 5 Sur América
+#EXTINF:-1 tvg-chno="636" tvg-logo="https://static.wixstatic.com/media/27d2df_fdc7de25263246f09a2975eac638f0a8~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/ESPN-5.png" group-title="Latin America",ESPN 5 Sur América
 http://sdmx.vip:80/live/yestv/eVW6aPPbUCD8/2233271.m3u8
-#EXTINF:-1 tvg-chno="637" tvg-logo="https://static.wixstatic.com/media/27d2df_7b0572454923490f87cd649cbb5a39ac~mv2.png/v1/fill/w_180 group-title="Latin America",h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/ESPN-6.png",ESPN 6 Sur América
+#EXTINF:-1 tvg-chno="637" tvg-logo="https://static.wixstatic.com/media/27d2df_7b0572454923490f87cd649cbb5a39ac~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/ESPN-6.png" group-title="Latin America",ESPN 6 Sur América
 http://sdmx.vip:80/live/yestv/eVW6aPPbUCD8/2233272.m3u8
-#EXTINF:-1 tvg-chno="638" tvg-logo="https://static.wixstatic.com/media/27d2df_50648e80b5bb41e091209006875097c9~mv2.png/v1/fill/w_180 group-title="Latin America",h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/ESPN-7.png",ESPN 7 Sur América
+#EXTINF:-1 tvg-chno="638" tvg-logo="https://static.wixstatic.com/media/27d2df_50648e80b5bb41e091209006875097c9~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/ESPN-7.png" group-title="Latin America",ESPN 7 Sur América
 http://sdmx.vip:80/live/yestv/eVW6aPPbUCD8/2233273.m3u8
-#EXTINF:-1 tvg-chno="639" tvg-logo="https://static.wixstatic.com/media/27d2df_fcf3392d82c34d0aa8d7b567bcbcd89f~mv2.png/v1/fill/w_180 group-title="Latin America",h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/ESPN-PREMIUM.png",ESPN Premium Sur (1) ²
+#EXTINF:-1 tvg-chno="639" tvg-logo="https://static.wixstatic.com/media/27d2df_fcf3392d82c34d0aa8d7b567bcbcd89f~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/ESPN-PREMIUM.png" group-title="Latin America",ESPN Premium Sur (1) ²
 http://190.102.246.93:9005/play/a00x
-#EXTINF:-1 tvg-chno="640" tvg-logo="https://static.wixstatic.com/media/27d2df_fcf3392d82c34d0aa8d7b567bcbcd89f~mv2.png/v1/fill/w_180 group-title="Latin America",h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/ESPN-PREMIUM.png",ESPN Premium Sur (2) ²
+#EXTINF:-1 tvg-chno="640" tvg-logo="https://static.wixstatic.com/media/27d2df_fcf3392d82c34d0aa8d7b567bcbcd89f~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/ESPN-PREMIUM.png" group-title="Latin America",ESPN Premium Sur (2) ²
 http://190.123.90.146:8000/play/a00f
-#EXTINF:-1 tvg-chno="641" tvg-logo="https://static.wixstatic.com/media/27d2df_a5d983e1932849e4af4b946f6289a003~mv2.png/v1/fill/w_180 group-title="Spanish-Argentina",h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/ESPN.png",ESPN Argentina ² 🇦🇷
+#EXTINF:-1 tvg-chno="641" tvg-logo="https://static.wixstatic.com/media/27d2df_a5d983e1932849e4af4b946f6289a003~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/ESPN.png" group-title="Spanish-Argentina",ESPN Argentina ² 🇦🇷
 http://38.180.133.31:8000/play/a0tb
-#EXTINF:-1 tvg-chno="641" tvg-logo="https://static.wixstatic.com/media/27d2df_a5d983e1932849e4af4b946f6289a003~mv2.png/v1/fill/w_180 group-title="Spanish-Chile",h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/ESPN.png",ESPN Chile ² 🇨🇱
+#EXTINF:-1 tvg-chno="641" tvg-logo="https://static.wixstatic.com/media/27d2df_a5d983e1932849e4af4b946f6289a003~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/ESPN.png" group-title="Spanish-Chile",ESPN Chile ² 🇨🇱
 http://191.52.214.5:8000/play/a02s
-#EXTINF:-1 tvg-chno="641" tvg-logo="https://static.wixstatic.com/media/27d2df_a5d983e1932849e4af4b946f6289a003~mv2.png/v1/fill/w_180 group-title="Spanish-Colombia",h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/ESPN.png",ESPN Colombia ² 🇨🇴
+#EXTINF:-1 tvg-chno="641" tvg-logo="https://static.wixstatic.com/media/27d2df_a5d983e1932849e4af4b946f6289a003~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/ESPN.png" group-title="Spanish-Colombia",ESPN Colombia ² 🇨🇴
 http://38.44.109.41:8003/play/a03x/index.m3u8
-#EXTINF:-1 tvg-chno="642" tvg-logo="https://static.wixstatic.com/media/27d2df_3855b68f65c541f1a3e6b3c89e80a07b~mv2.png/v1/fill/w_180 group-title="Latin America",h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/ESPN-2.png",ESPN Sur América 2 ²
+#EXTINF:-1 tvg-chno="642" tvg-logo="https://static.wixstatic.com/media/27d2df_3855b68f65c541f1a3e6b3c89e80a07b~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/ESPN-2.png" group-title="Latin America",ESPN Sur América 2 ²
 http://191.52.214.5:8000/play/a027
-#EXTINF:-1 tvg-chno="643" tvg-logo="https://static.wixstatic.com/media/27d2df_924eed614eed44d3a36344f60a9fcde1~mv2.png/v1/fill/w_180 group-title="Latin America",h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/ESPN-3.png",ESPN Sur América 3 ²
+#EXTINF:-1 tvg-chno="643" tvg-logo="https://static.wixstatic.com/media/27d2df_924eed614eed44d3a36344f60a9fcde1~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/ESPN-3.png" group-title="Latin America",ESPN Sur América 3 ²
 http://191.52.214.5:8000/play/a025
-#EXTINF:-1 tvg-chno="644" tvg-logo="https://static.wixstatic.com/media/27d2df_995efad2b6c34c68a7f81275c00ad162~mv2.png/v1/fill/w_180 group-title="Latin America",h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/ESPN-4.png",ESPN Sur América 4 ²
+#EXTINF:-1 tvg-chno="644" tvg-logo="https://static.wixstatic.com/media/27d2df_995efad2b6c34c68a7f81275c00ad162~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/ESPN-4.png" group-title="Latin America",ESPN Sur América 4 ²
 http://45.169.163.106:8000/play/a00z
-#EXTINF:-1 tvg-chno="645" tvg-logo="https://static.wixstatic.com/media/27d2df_fdc7de25263246f09a2975eac638f0a8~mv2.png/v1/fill/w_180 group-title="Latin America",h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/ESPN-5.png",ESPN Sur América 5 ²
+#EXTINF:-1 tvg-chno="645" tvg-logo="https://static.wixstatic.com/media/27d2df_fdc7de25263246f09a2975eac638f0a8~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/ESPN-5.png" group-title="Latin America",ESPN Sur América 5 ²
 http://38.44.109.41:8003/play/a03w/index.m3u8
-#EXTINF:-1 tvg-chno="646" tvg-logo="https://static.wixstatic.com/media/27d2df_7b0572454923490f87cd649cbb5a39ac~mv2.png/v1/fill/w_180 group-title="Latin America",h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/ESPN-6.png",ESPN Sur América 6 ²
+#EXTINF:-1 tvg-chno="646" tvg-logo="https://static.wixstatic.com/media/27d2df_7b0572454923490f87cd649cbb5a39ac~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/ESPN-6.png" group-title="Latin America",ESPN Sur América 6 ²
 http://190.61.42.218:9000/play/a062
-#EXTINF:-1 tvg-chno="647" tvg-logo="https://static.wixstatic.com/media/27d2df_50648e80b5bb41e091209006875097c9~mv2.png/v1/fill/w_180 group-title="Latin America",h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/ESPN-7.png",ESPN Sur América 7 ²
+#EXTINF:-1 tvg-chno="647" tvg-logo="https://static.wixstatic.com/media/27d2df_50648e80b5bb41e091209006875097c9~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/ESPN-7.png" group-title="Latin America",ESPN Sur América 7 ²
 http://45.169.163.106:8000/play/a014
 #EXTINF:-1 tvg-chno="650" tvg-logo="https://seeklogo.com/images/F/fox-sports-argentina-2023-logo-2874DA0937-seeklogo.com.png" group-title="Latin America",Fox Sports Sur América ²
 http://190.123.90.146:8000/play/a00g/index.m3u8
@@ -991,33 +991,33 @@ http://190.123.90.146:8000/play/a00g/index.m3u8
 http://181.78.106.127:9000/play/ca032
 #EXTINF:-1 tvg-chno="652" tvg-logo="https://seeklogo.com/images/F/fox-sports-3-argentina-2023-logo-2A58AB321F-seeklogo.com.png" group-title="Latin America",Fox Sports 3 Sur América ²
 http://190.123.90.146:8000/play/a00i/index.m3u8
-#EXTINF:-1 tvg-chno="654" tvg-logo="https://static.wixstatic.com/media/27d2df_4eaac0b1db3247979f81c7784c0f067e~mv2.png/v1/fill/w_180 group-title="Spanish-Mexico",h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/TUDN.png",TUDN MX ¹ 🇲🇽
+#EXTINF:-1 tvg-chno="654" tvg-logo="https://static.wixstatic.com/media/27d2df_4eaac0b1db3247979f81c7784c0f067e~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/TUDN.png" group-title="Spanish-Mexico",TUDN MX ¹ 🇲🇽
 http://crlive1.service.osllacdn.com/tudnhdcr/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1 tvg-chno="655" tvg-logo="https://static.wixstatic.com/media/27d2df_4eaac0b1db3247979f81c7784c0f067e~mv2.png/v1/fill/w_180 group-title="Spanish-USA",h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/TUDN.png",TUDN USA ² 🇺🇸
+#EXTINF:-1 tvg-chno="655" tvg-logo="https://static.wixstatic.com/media/27d2df_4eaac0b1db3247979f81c7784c0f067e~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/TUDN.png" group-title="Spanish-USA",TUDN USA ² 🇺🇸
 http://190.92.10.66:4000/play/a002/index.m3u8
 #EXTINF:-1 tvg-chno="656" tvg-logo="https://iili.io/J2wureR.png" group-title="Spanish-USA",Zona TUDN USA 🇺🇸
 http://1play.cool:25461/streaming/clients_live.php?username=2132580232&password=27be478b47&stream=78280&extension=ts
-#EXTINF:-1 tvg-chno="657" tvg-logo="https://static.wixstatic.com/media/27d2df_893e94675e2f471fa8db741d5152a259~mv2.png/v1/fill/w_180 group-title="Spanish-Mexico",h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/CLARO-SPORTS.png",Claro Sports MX ¹ 🇲🇽
+#EXTINF:-1 tvg-chno="657" tvg-logo="https://static.wixstatic.com/media/27d2df_893e94675e2f471fa8db741d5152a259~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/CLARO-SPORTS.png" group-title="Spanish-Mexico",Claro Sports MX ¹ 🇲🇽
 https://dai.google.com/linear/hls/event/yINISWAPQ0CPhPixe-40wQ/master.m3u8
-#EXTINF:-1 tvg-chno="658" tvg-logo="https://static.wixstatic.com/media/27d2df_893e94675e2f471fa8db741d5152a259~mv2.png/v1/fill/w_180 group-title="Spanish-Mexico",h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/CLARO-SPORTS.png",Claro Sports 2 MX ² 🇲🇽
+#EXTINF:-1 tvg-chno="658" tvg-logo="https://static.wixstatic.com/media/27d2df_893e94675e2f471fa8db741d5152a259~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/CLARO-SPORTS.png" group-title="Spanish-Mexico",Claro Sports 2 MX ² 🇲🇽
 http://181.78.106.127:9000/play/ca037
-#EXTINF:-1 tvg-chno="659" tvg-logo="https://static.wixstatic.com/media/27d2df_893e94675e2f471fa8db741d5152a259~mv2.png/v1/fill/w_180 group-title="Spanish-Colombia",h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/CLARO-SPORTS.png",Claro Sports 2 CO 🇨🇴
+#EXTINF:-1 tvg-chno="659" tvg-logo="https://static.wixstatic.com/media/27d2df_893e94675e2f471fa8db741d5152a259~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/CLARO-SPORTS.png" group-title="Spanish-Colombia",Claro Sports 2 CO 🇨🇴
 http://sdmx.vip:80/live/yestv/eVW6aPPbUCD8/2537511.m3u8
-#EXTINF:-1 tvg-chno="660" tvg-logo="https://static.wixstatic.com/media/27d2df_96e8f3dd921c4fe4a8c26070d5b9da9a~mv2.png/v1/fill/w_180 group-title="Spanish-Argentina",h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/DSPORTS.png",DirecTV Sports ² 🇦🇷
+#EXTINF:-1 tvg-chno="660" tvg-logo="https://static.wixstatic.com/media/27d2df_96e8f3dd921c4fe4a8c26070d5b9da9a~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/DSPORTS.png" group-title="Spanish-Argentina",DirecTV Sports ² 🇦🇷
 http://200.60.124.19:29000/play/a081/index.m3u8
-#EXTINF:-1 tvg-chno="661" tvg-logo="https://static.wixstatic.com/media/27d2df_96e8f3dd921c4fe4a8c26070d5b9da9a~mv2.png/v1/fill/w_180 group-title="Spanish-Colombia",h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/DSPORTS.png",DirecTV Sports 🇨🇴
+#EXTINF:-1 tvg-chno="661" tvg-logo="https://static.wixstatic.com/media/27d2df_96e8f3dd921c4fe4a8c26070d5b9da9a~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/DSPORTS.png" group-title="Spanish-Colombia",DirecTV Sports 🇨🇴
 http://sdmx.vip:80/live/yestv/eVW6aPPbUCD8/203185.m3u8
-#EXTINF:-1 tvg-chno="663" tvg-logo="https://static.wixstatic.com/media/27d2df_780da30c761044d1b8f70fa1d89e3b67~mv2.png/v1/fill/w_180 group-title="Spanish-Argentina",h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/DSPORTS-2.png",DirecTV Sports 2 ² 🇦🇷
+#EXTINF:-1 tvg-chno="663" tvg-logo="https://static.wixstatic.com/media/27d2df_780da30c761044d1b8f70fa1d89e3b67~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/DSPORTS-2.png" group-title="Spanish-Argentina",DirecTV Sports 2 ² 🇦🇷
 http://181.119.111.25:8000/play/a04e/index.m3u8
-#EXTINF:-1 tvg-chno="664" tvg-logo="https://static.wixstatic.com/media/27d2df_780da30c761044d1b8f70fa1d89e3b67~mv2.png/v1/fill/w_180 group-title="Spanish-Argentina",h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/DSPORTS-2.png",DirecTV + 🇦🇷
+#EXTINF:-1 tvg-chno="664" tvg-logo="https://static.wixstatic.com/media/27d2df_780da30c761044d1b8f70fa1d89e3b67~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/DSPORTS-2.png" group-title="Spanish-Argentina",DirecTV + 🇦🇷
 http://2.magmas5.com:8000/streaming/clients_live.php?username=PSG@273Res&password=0OPSGMessi24&stream=152906&extension=ts
 #EXTINF:-1 tvg-chno="665" tvg-logo="http://sdmx.vip:80/live/yestv/eVW6aPPbUCD8/203185.m3u8" group-title="Spanish-USA",Sky Sports Bundesliga ² 🇺🇸
 http://190.92.10.66:4000/play/a006/index.m3u8
-#EXTINF:-1 tvg-chno="666" tvg-logo="https://static.wixstatic.com/media/27d2df_8560e12d0965432f912670021b8da9bc~mv2.png/v1/fill/w_180 group-title="Spanish-USA",h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/SKY-SPORTS.png",Sky Sports La Liga ² 🇺🇸
+#EXTINF:-1 tvg-chno="666" tvg-logo="https://static.wixstatic.com/media/27d2df_8560e12d0965432f912670021b8da9bc~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/SKY-SPORTS.png" group-title="Spanish-USA",Sky Sports La Liga ² 🇺🇸
 http://181.78.106.127:9000/play/ca030
-#EXTINF:-1 tvg-chno="668" tvg-logo="https://static.wixstatic.com/media/27d2df_a2dd2c74ec5a4092ab9be022ee52ea8e~mv2.png/v1/fill/w_180 group-title="Spanish-Ceuta/Melilla",h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/DAZN-LA-LIGA.png",Dazn La Liga 🇪🇦
+#EXTINF:-1 tvg-chno="668" tvg-logo="https://static.wixstatic.com/media/27d2df_a2dd2c74ec5a4092ab9be022ee52ea8e~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/DAZN-LA-LIGA.png" group-title="Spanish-Ceuta/Melilla",Dazn La Liga 🇪🇦
 http://sdmx.vip:80/live/yestv/eVW6aPPbUCD8/197233.m3u8
-#EXTINF:-1 tvg-chno="669" tvg-logo="https://static.wixstatic.com/media/27d2df_a2dd2c74ec5a4092ab9be022ee52ea8e~mv2.png/v1/fill/w_180 group-title="Spanish-Ceuta/Melilla",h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/DAZN-LA-LIGA.png",Dazn La Liga 2 🇪🇦
+#EXTINF:-1 tvg-chno="669" tvg-logo="https://static.wixstatic.com/media/27d2df_a2dd2c74ec5a4092ab9be022ee52ea8e~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/DAZN-LA-LIGA.png" group-title="Spanish-Ceuta/Melilla",Dazn La Liga 2 🇪🇦
 http://2.magmas5.com:8000/streaming/clients_live.php?username=PSG@273Res&password=0OPSGMessi24&stream=4316&extension=ts
 #EXTINF:-1 tvg-chno="670" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/LaLiga_2023_Horizontal_Logo.svg/1024px-LaLiga_2023_Horizontal_Logo.svg.png" group-title="Spanish-USA",La Liga Vix 🇺🇸
 http://go.iptvhn.net:25461/streaming/clients_live.php?username=7785&password=7785&stream=13326&extension=ts
@@ -1025,45 +1025,45 @@ http://go.iptvhn.net:25461/streaming/clients_live.php?username=7785&password=778
 http://2.magmas5.com:8000/streaming/clients_live.php?username=PSG@273Res&password=0OPSGMessi24&stream=126460&extension=ts
 #EXTINF:-1 tvg-chno="672" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/LaLiga_TV_Por_M%2B_Logo.png/1600px-LaLiga_TV_Por_M%2B_Logo.png" group-title="Spanish-Spain",La Liga TV por Movistar + 🇪🇸
 http://sdmx.vip:80/live/yestv/eVW6aPPbUCD8/157372.m3u8
-#EXTINF:-1 tvg-chno="674" tvg-logo="https://static.wixstatic.com/media/27d2df_aa6a01e490a545b8b5973d06025aa9cd~mv2.png/v1/fill/w_180 group-title="Spanish-Spain",h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/LIGA-DE-CAMPEONES-POR-M.png",Movistar Liga de Campeones 🇪🇸
+#EXTINF:-1 tvg-chno="674" tvg-logo="https://static.wixstatic.com/media/27d2df_aa6a01e490a545b8b5973d06025aa9cd~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/LIGA-DE-CAMPEONES-POR-M.png" group-title="Spanish-Spain",Movistar Liga de Campeones 🇪🇸
 http://2.magmas5.com:8000/streaming/clients_live.php?username=PSG@273Res&password=0OPSGMessi24&stream=126196&extension=ts
-#EXTINF:-1 tvg-chno="675" tvg-logo="https://static.wixstatic.com/media/27d2df_aa6a01e490a545b8b5973d06025aa9cd~mv2.png/v1/fill/w_180 group-title="Spanish-Spain",h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/LIGA-DE-CAMPEONES-POR-M.png",La Liga Hypermotion 🇪🇸
+#EXTINF:-1 tvg-chno="675" tvg-logo="https://static.wixstatic.com/media/27d2df_aa6a01e490a545b8b5973d06025aa9cd~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/LIGA-DE-CAMPEONES-POR-M.png" group-title="Spanish-Spain",La Liga Hypermotion 🇪🇸
 http://2.magmas5.com:8000/streaming/clients_live.php?username=PSG@273Res&password=0OPSGMessi24&stream=175094&extension=ts
-#EXTINF:-1 tvg-chno="676" tvg-logo="https://static.wixstatic.com/media/27d2df_613ef20a822d42de9067babf9f21852b~mv2.png/v1/fill/w_180 group-title="Spanish-Spain",h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/DAZN.png",Dazn 1 🇪🇸
+#EXTINF:-1 tvg-chno="676" tvg-logo="https://static.wixstatic.com/media/27d2df_613ef20a822d42de9067babf9f21852b~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/DAZN.png" group-title="Spanish-Spain",Dazn 1 🇪🇸
 http://2.magmas5.com:8000/streaming/clients_live.php?username=PSG@273Res&password=0OPSGMessi24&stream=126454&extension=ts
-#EXTINF:-1 tvg-chno="676" tvg-logo="https://static.wixstatic.com/media/27d2df_eae3f65a0b5b42c8adbcf1d583639799~mv2.png/v1/fill/w_180 group-title="Spanish-Spain",h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/DAZN-2.png",Dazn 2 🇪🇸
+#EXTINF:-1 tvg-chno="676" tvg-logo="https://static.wixstatic.com/media/27d2df_eae3f65a0b5b42c8adbcf1d583639799~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/DAZN-2.png" group-title="Spanish-Spain",Dazn 2 🇪🇸
 http://2.magmas5.com:8000/streaming/clients_live.php?username=PSG@273Res&password=0OPSGMessi24&stream=141361&extension=ts
-#EXTINF:-1 tvg-chno="676" tvg-logo="https://static.wixstatic.com/media/27d2df_eae3f65a0b5b42c8adbcf1d583639799~mv2.png/v1/fill/w_180 group-title="Spanish-Spain",h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/DAZN-2.png",Dazn F1 🇪🇸
+#EXTINF:-1 tvg-chno="676" tvg-logo="https://static.wixstatic.com/media/27d2df_eae3f65a0b5b42c8adbcf1d583639799~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/DAZN-2.png" group-title="Spanish-Spain",Dazn F1 🇪🇸
 http://sdmx.vip:80/live/yestv/eVW6aPPbUCD8/223952.m3u8
-#EXTINF:-1 tvg-chno="677" tvg-logo="https://static.wixstatic.com/media/27d2df_aa6a01e490a545b8b5973d06025aa9cd~mv2.png/v1/fill/w_180 group-title="Spanish-Spain",h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/LIGA-DE-CAMPEONES-POR-M.png",Vamos por Movistar + 🇪🇸
+#EXTINF:-1 tvg-chno="677" tvg-logo="https://static.wixstatic.com/media/27d2df_aa6a01e490a545b8b5973d06025aa9cd~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/LIGA-DE-CAMPEONES-POR-M.png" group-title="Spanish-Spain",Vamos por Movistar + 🇪🇸
 http://2.magmas5.com:8000/streaming/clients_live.php?username=PSG@273Res&password=0OPSGMessi24&stream=4305&extension=ts
-#EXTINF:-1 tvg-chno="678" tvg-logo="https://static.wixstatic.com/media/27d2df_aa6a01e490a545b8b5973d06025aa9cd~mv2.png/v1/fill/w_180 group-title="Spanish-Spain",h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/LIGA-DE-CAMPEONES-POR-M.png",Deportes por Movistar + 🇪🇸
+#EXTINF:-1 tvg-chno="678" tvg-logo="https://static.wixstatic.com/media/27d2df_aa6a01e490a545b8b5973d06025aa9cd~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/LIGA-DE-CAMPEONES-POR-M.png" group-title="Spanish-Spain",Deportes por Movistar + 🇪🇸
 http://2.magmas5.com:8000/streaming/clients_live.php?username=PSG@273Res&password=0OPSGMessi24&stream=126501&extension=ts
-#EXTINF:-1 tvg-chno="679" tvg-logo="https://static.wixstatic.com/media/27d2df_304369b4987a4309ac7bfa2e88926465~mv2.png/v1/fill/w_180 group-title="Spanish-Argentina",h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/TYC-SPORTS.png",TyC Sports ² 🇦🇷
+#EXTINF:-1 tvg-chno="679" tvg-logo="https://static.wixstatic.com/media/27d2df_304369b4987a4309ac7bfa2e88926465~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/TYC-SPORTS.png" group-title="Spanish-Argentina",TyC Sports ² 🇦🇷
 http://190.123.90.146:8000/play/a00k/index.m3u8
-#EXTINF:-1 tvg-chno="679" tvg-logo="https://static.wixstatic.com/media/27d2df_304369b4987a4309ac7bfa2e88926465~mv2.png/v1/fill/w_180 group-title="Spanish-USA",h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/TYC-SPORTS.png",TyC Sports USA 🇺🇸
+#EXTINF:-1 tvg-chno="679" tvg-logo="https://static.wixstatic.com/media/27d2df_304369b4987a4309ac7bfa2e88926465~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/TYC-SPORTS.png" group-title="Spanish-USA",TyC Sports USA 🇺🇸
 http://sdmx.vip:80/live/yestv/eVW6aPPbUCD8/155679.m3u8
-#EXTINF:-1 tvg-chno="679" tvg-logo="https://static.wixstatic.com/media/27d2df_304369b4987a4309ac7bfa2e88926465~mv2.png/v1/fill/w_180 group-title="Spanish-Argentina",h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/TYC-SPORTS.png",TyC Sports Internacional 🇦🇷
+#EXTINF:-1 tvg-chno="679" tvg-logo="https://static.wixstatic.com/media/27d2df_304369b4987a4309ac7bfa2e88926465~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/TYC-SPORTS.png" group-title="Spanish-Argentina",TyC Sports Internacional 🇦🇷
 http://2.magmas5.com:8000/streaming/clients_live.php?username=PSG@273Res&password=0OPSGMessi24&stream=145441&extension=ts
-#EXTINF:-1 tvg-chno="679" tvg-logo="https://static.wixstatic.com/media/27d2df_7dd86f95523f4e74a9f6134ecc3ef7d9~mv2.png/v1/fill/w_180 group-title="Spanish-Movies",h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/TNT-SPORTS.png",TNT Sports 🇦🇷
+#EXTINF:-1 tvg-chno="679" tvg-logo="https://static.wixstatic.com/media/27d2df_7dd86f95523f4e74a9f6134ecc3ef7d9~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/TNT-SPORTS.png" group-title="Spanish-Movies",TNT Sports 🇦🇷
 http://2.magmas5.com:8000/streaming/clients_live.php?username=PSG@273Res&password=0OPSGMessi24&stream=131980&extension=ts
-#EXTINF:-1 tvg-chno="679" tvg-logo="https://static.wixstatic.com/media/27d2df_7dd86f95523f4e74a9f6134ecc3ef7d9~mv2.png/v1/fill/w_180 group-title="Spanish-Movies",h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/TNT-SPORTS.png",TNT Sports ² 🇨🇱
+#EXTINF:-1 tvg-chno="679" tvg-logo="https://static.wixstatic.com/media/27d2df_7dd86f95523f4e74a9f6134ecc3ef7d9~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/TNT-SPORTS.png" group-title="Spanish-Movies",TNT Sports ² 🇨🇱
 http://38.41.8.1:8000/play/a0vm
-#EXTINF:-1 tvg-chno="679" tvg-logo="https://static.wixstatic.com/media/27d2df_7dd86f95523f4e74a9f6134ecc3ef7d9~mv2.png/v1/fill/w_180 group-title="Spanish-Movies",h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/TNT-SPORTS.png",TNT Sports Premium ² 🇨🇱
+#EXTINF:-1 tvg-chno="679" tvg-logo="https://static.wixstatic.com/media/27d2df_7dd86f95523f4e74a9f6134ecc3ef7d9~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/TNT-SPORTS.png" group-title="Spanish-Movies",TNT Sports Premium ² 🇨🇱
 http://190.123.90.146:8000/play/a00j/index.m3u8
-#EXTINF:-1 tvg-chno="680" tvg-logo="https://static.wixstatic.com/media/27d2df_cf328a73209b424d89d08c0a1f893ed3~mv2.png/v1/fill/w_180 group-title="Spanish-Ecuador",h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/ECDF.png",ECDF ² 🇪🇨
+#EXTINF:-1 tvg-chno="680" tvg-logo="https://static.wixstatic.com/media/27d2df_cf328a73209b424d89d08c0a1f893ed3~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/ECDF.png" group-title="Spanish-Ecuador",ECDF ² 🇪🇨
 http://38.44.109.41:8003/play/a038/index.m3u8
-#EXTINF:-1 tvg-chno="681" tvg-logo="https://static.wixstatic.com/media/27d2df_cf328a73209b424d89d08c0a1f893ed3~mv2.png/v1/fill/w_180 group-title="Spanish-Peru",h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/ECDF.png",Gol Perú ² 🇵🇪
+#EXTINF:-1 tvg-chno="681" tvg-logo="https://static.wixstatic.com/media/27d2df_cf328a73209b424d89d08c0a1f893ed3~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/ECDF.png" group-title="Spanish-Peru",Gol Perú ² 🇵🇪
 http://38.41.8.1:8000/play/a0u8
-#EXTINF:-1 tvg-chno="681" tvg-logo="https://static.wixstatic.com/media/27d2df_671d5242045d41078058c9361622dacd~mv2.png/v1/fill/w_180 group-title="Spanish-Uruguay",h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/GOL-TV.png",Gol Tv ² 🇺🇾
+#EXTINF:-1 tvg-chno="681" tvg-logo="https://static.wixstatic.com/media/27d2df_671d5242045d41078058c9361622dacd~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/GOL-TV.png" group-title="Spanish-Uruguay",Gol Tv ² 🇺🇾
 http://38.41.8.1:8000/play/a0wi
-#EXTINF:-1 tvg-chno="682" tvg-logo="https://static.wixstatic.com/media/27d2df_aa09c9d58f564e09897e5918f4c0f769~mv2.png/v1/fill/w_180 group-title="Spanish-Uruguay",h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/VTV.png",VTV ² 🇺🇾
+#EXTINF:-1 tvg-chno="682" tvg-logo="https://static.wixstatic.com/media/27d2df_aa09c9d58f564e09897e5918f4c0f769~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/VTV.png" group-title="Spanish-Uruguay",VTV ² 🇺🇾
 http://200.60.124.19:29000/play/a0j7/index.m3u8
-#EXTINF:-1 tvg-chno="683" tvg-logo="https://static.wixstatic.com/media/27d2df_e7790a6174964e8f971e92664372a4ad~mv2.png/v1/fill/w_180 group-title="Spanish-Colombia",h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/WIN-SPORTS.png",Win Sports ² 🇨🇴
+#EXTINF:-1 tvg-chno="683" tvg-logo="https://static.wixstatic.com/media/27d2df_e7790a6174964e8f971e92664372a4ad~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/WIN-SPORTS.png" group-title="Spanish-Colombia",Win Sports ² 🇨🇴
 http://191.97.15.250:45000/play/a04c/index.m3u8
-#EXTINF:-1 tvg-chno="683" tvg-logo="https://static.wixstatic.com/media/27d2df_e7790a6174964e8f971e92664372a4ad~mv2.png/v1/fill/w_180 group-title="Spanish-Colombia",h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/WIN-SPORTS.png",Win Sports + ² 🇨🇴
+#EXTINF:-1 tvg-chno="683" tvg-logo="https://static.wixstatic.com/media/27d2df_e7790a6174964e8f971e92664372a4ad~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/WIN-SPORTS.png" group-title="Spanish-Colombia",Win Sports + ² 🇨🇴
 http://38.41.8.1:8000/play/a0tp
-#EXTINF:-1 tvg-chno="684" tvg-logo="https://static.wixstatic.com/media/27d2df_b3af5440b55c4187a22603dec862fa45~mv2.png/v1/fill/w_180 group-title="Spanish-Peru",h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/M-DEPORTES.png",Movistar Deportes ² 🇵🇪
+#EXTINF:-1 tvg-chno="684" tvg-logo="https://static.wixstatic.com/media/27d2df_b3af5440b55c4187a22603dec862fa45~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/M-DEPORTES.png" group-title="Spanish-Peru",Movistar Deportes ² 🇵🇪
 http://38.41.8.1:8000/play/a0ry
 #EXTINF:-1 tvg-chno="685" tvg-logo="https://i.imgur.com/6wkmgGM.png" group-title="Spanish-Panama",Tigo Sports Panamá 🇵🇦
 http://2.magmas5.com:8000/streaming/clients_live.php?username=PSG@273Res&password=0OPSGMessi24&stream=239198&extension=ts
@@ -1083,19 +1083,19 @@ http://go.iptvhn.net:25461/streaming/clients_live.php?username=7682&password=768
 http://190.60.33.245:4002/play/a0hw
 #EXTINF:-1 tvg-chno="688" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Aztecadeporteslogo.png/480px-Aztecadeporteslogo.png" group-title="Spanish-Mexico",Azteca Deportes (Pluto) ¹ 🇲🇽
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/65cf60d166eec80008724e6flivestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&profilesFromStream=true
-#EXTINF:-1 tvg-chno="690" tvg-logo="https://static.wixstatic.com/media/27d2df_e6c4e4800b724c67b704d7e4c597af49~mv2.png/v1/fill/w_180 group-title="Spanish-Mexico",h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/TVC-DEORTES.png",TVC Deportes 🇲🇽
+#EXTINF:-1 tvg-chno="690" tvg-logo="https://static.wixstatic.com/media/27d2df_e6c4e4800b724c67b704d7e4c597af49~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/TVC-DEORTES.png" group-title="Spanish-Mexico",TVC Deportes 🇲🇽
 http://2.magmas5.com:8000/streaming/clients_live.php?username=PSG@273Res&password=0OPSGMessi24&stream=150069&extension=ts
 #EXTINF:-1 tvg-chno="691" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/aym_sports-mediano.png" group-title="Spanish-Mexico",A y M Sports ¹ 🇲🇽
 https://aym-as.otteravision.com/aym/as/as_1080p.m3u8
-#EXTINF:-1 tvg-chno="692" tvg-logo="https://static.wixstatic.com/media/27d2df_5ff1a2453f4d42f5961fbd1063004468~mv2.png/v1/fill/w_180 group-title="Spanish-USA",h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/BEIN-SPORTS.png",Bein Sports 🇺🇸
+#EXTINF:-1 tvg-chno="692" tvg-logo="https://static.wixstatic.com/media/27d2df_5ff1a2453f4d42f5961fbd1063004468~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/BEIN-SPORTS.png" group-title="Spanish-USA",Bein Sports 🇺🇸
 http://2.magmas5.com:8000/streaming/clients_live.php?username=PSG@273Res&password=0OPSGMessi24&stream=2682&extension=ts
 #EXTINF:-1 tvg-chno="692" tvg-logo="https://beinxtraespanol.com/images/logo-bein-sport-xtra-espanol-plain.png" group-title="Spanish-USA",Bein Sports XTRA ¹ 🇺🇸
 https://bein-esp-xumo.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-chno="693" tvg-logo="https://static.wixstatic.com/media/27d2df_6f105d86f6594198a9fc6590dee6b3c0~mv2.png/v1/fill/w_200 group-title="Spanish-Ceuta/Melilla",h_182,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/EUROSPORT-1.png",Eurosport 1 ² 🇪🇦
+#EXTINF:-1 tvg-chno="693" tvg-logo="https://static.wixstatic.com/media/27d2df_6f105d86f6594198a9fc6590dee6b3c0~mv2.png/v1/fill/w_200,h_182,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/EUROSPORT-1.png" group-title="Spanish-Ceuta/Melilla",Eurosport 1 ² 🇪🇦
 http://185.189.225.157/EuroSport1/index.m3u8
-#EXTINF:-1 tvg-chno="693" tvg-logo="https://static.wixstatic.com/media/27d2df_4614cbf5c6084044b063fff6f5de6d04~mv2.png/v1/fill/w_180 group-title="Spanish-Ceuta/Melilla",h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/EUROSPORT-2.png",Eurosport 2 ² 🇪🇦
+#EXTINF:-1 tvg-chno="693" tvg-logo="https://static.wixstatic.com/media/27d2df_4614cbf5c6084044b063fff6f5de6d04~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/EUROSPORT-2.png" group-title="Spanish-Ceuta/Melilla",Eurosport 2 ² 🇪🇦
 http://185.189.225.157/EuroSport2/index.m3u8
-#EXTINF:-1 tvg-chno="694" tvg-logo="https://static.wixstatic.com/media/27d2df_88c2321f1f8b4cbdbc22f44367c1a8b7~mv2.png/v1/fill/w_180 group-title="Spanish-Ceuta/Melilla",h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/TDP.png",Teledeporte (TVE) ¹ 🇪🇦
+#EXTINF:-1 tvg-chno="694" tvg-logo="https://static.wixstatic.com/media/27d2df_88c2321f1f8b4cbdbc22f44367c1a8b7~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/TDP.png" group-title="Spanish-Ceuta/Melilla",Teledeporte (TVE) ¹ 🇪🇦
 https://d2a02gfcid1k4a.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-clihr3vf54f9j/Teledeporte_ES.m3u8
 #EXTINF:-1 tvg-chno="695" tvg-logo="https://bloximages.newyork1.vip.townnews.com/wapa.tv/content/tncms/custom/image/128579b4-6ac2-11ed-8535-d36612803c67.png" group-title="Spanish-Puerto Rico",Wapa Deportes 🇵🇷
 http://2.magmas5.com:8000/streaming/clients_live.php?username=PSG@273Res&password=0OPSGMessi24&stream=126530&extension=ts
@@ -1103,13 +1103,13 @@ http://2.magmas5.com:8000/streaming/clients_live.php?username=PSG@273Res&passwor
 http://2.magmas5.com:8000/streaming/clients_live.php?username=PSG@273Res&password=0OPSGMessi24&stream=145469&extension=ts
 #EXTINF:-1 tvg-chno="697" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/Logo_Meridiano_TV_Venezuela.png" group-title="Spanish-Venezuela",Meridiano ² 🇻🇪
 http://38.41.8.1:8000/play/a03w
-#EXTINF:-1 tvg-chno="698" tvg-logo="https://assets-imgx.fubo.tv/marketing/lp/images/fsn/logos/FuboSports_Logo_OneColor_box_rgb.png?w=300&ch=width&auto=format group-title="Spanish-USA",compress",Fubo Latino 🇺🇸
+#EXTINF:-1 tvg-chno="698" tvg-logo="https://assets-imgx.fubo.tv/marketing/lp/images/fsn/logos/FuboSports_Logo_OneColor_box_rgb.png?w=300&ch=width&auto=format,compress" group-title="Spanish-USA",Fubo Latino 🇺🇸
 http://1play.cool:25461/streaming/clients_live.php?username=2132580232&password=27be478b47&stream=194161&extension=ts
-#EXTINF:-1 tvg-chno="698" tvg-logo="https://assets-imgx.fubo.tv/marketing/lp/images/fsn/logos/FuboSports_Logo_OneColor_box_rgb.png?w=300&ch=width&auto=format group-title="Spanish-USA",compress",Fubo Sports Networks 🇺🇸
+#EXTINF:-1 tvg-chno="698" tvg-logo="https://assets-imgx.fubo.tv/marketing/lp/images/fsn/logos/FuboSports_Logo_OneColor_box_rgb.png?w=300&ch=width&auto=format,compress" group-title="Spanish-USA",Fubo Sports Networks 🇺🇸
 http://1play.cool:25461/streaming/clients_live.php?username=2132580232&password=27be478b47&stream=175758&extension=ts
-#EXTINF:-1 tvg-chno="698" tvg-logo="https://assets-imgx.fubo.tv/marketing/lp/images/fsn/logos/FuboSports_Logo_OneColor_box_rgb.png?w=300&ch=width&auto=format group-title="Spanish-Spain",compress",Real Madrid TV ¹ 🇪🇸
+#EXTINF:-1 tvg-chno="698" tvg-logo="https://assets-imgx.fubo.tv/marketing/lp/images/fsn/logos/FuboSports_Logo_OneColor_box_rgb.png?w=300&ch=width&auto=format,compress" group-title="Spanish-Spain",Real Madrid TV ¹ 🇪🇸
 https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
-#EXTINF:-1 tvg-chno="699" tvg-logo="https://static.wixstatic.com/media/27d2df_7198c6ed4299494984dce09650a355c2~mv2.png/v1/fill/w_180 group-title="Spanish-Argentina",h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/DEPORTV.png",DeporTV 🇦🇷
+#EXTINF:-1 tvg-chno="699" tvg-logo="https://static.wixstatic.com/media/27d2df_7198c6ed4299494984dce09650a355c2~mv2.png/v1/fill/w_180,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/DEPORTV.png" group-title="Spanish-Argentina",DeporTV 🇦🇷
 http://2.magmas5.com:8000/streaming/clients_live.php?username=PSG@273Res&password=0OPSGMessi24&stream=145464&extension=ts
 #EXTINF:-1 tvg-chno="700" tvg-logo="https://vmlatino.com/wp-content/uploads/2022/03/VM-LATINO-transp.png" group-title="Latin America",VM Latino
 https://59ef525c24caa.streamlock.net/vmtv/vmlatino/playlist.m3u8
